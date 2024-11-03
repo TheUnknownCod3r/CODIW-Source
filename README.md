@@ -2,6 +2,7 @@
 Raw Dump of Infinite Warfare GSC Files, With multiple Contributors
 
 **CONTENTS**
+
 IW7-Raw - Raw Unlabelled scripts, still looking for a home
 
 IW7-Scripts - An Attempt at accurate structuring for GSC, with mostly labelled scripts and functions.
