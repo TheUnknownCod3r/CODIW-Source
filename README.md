@@ -1,5 +1,6 @@
-# IW7-src
-Raw Dump of Infinite Warfare GSC Files, With multiple Contributors
+# CODIW-Source
+Source dump of all GSC files from Call of Duty: Infinite Warfare, PC Version.
+Multiple contributors have provided raw files, scriptnames, stringnames, etc for these files!
 
 **CONTENTS**
 
@@ -7,6 +8,11 @@ IW7-Raw - Raw Unlabelled scripts, still looking for a home
 
 IW7-Scripts - An Attempt at accurate structuring for GSC, with mostly labelled scripts and functions.
 
+
+** Publicly Available Projects **
+The Following Projects are available for Call of Duty Infinite Warfare, Either for IW7-Mod, or Infinity Loader. 
+[Synergy](https://github.com/SyndiShanX/Synergy-IW-GSC-Menu) - a Mod Menu for Campaign, MP, and Zombies.
+[YetAnotherModMenu](https://github.com/TheUnknownCod3r/GSC-Related-Mods/tree/main/Infinite%20Warfare) - Two different Versions, one for Inifinity Loader, one for IW7-Mod. InfinityLoader edition is more up to date.
 **CREDIT**
 
 The Following people helped make this possible (From my knowledge). If you are missing from this list and feel you deserve a place, open an issue and let me know! <3
