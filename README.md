@@ -4,14 +4,14 @@ Multiple contributors have provided raw files, scriptnames, stringnames, etc for
 
 **CONTENTS**
 
-IW7-Raw - Raw Unlabelled scripts, still looking for a home
+IW7-Raw - Raw Unlabelled scripts, still looking for a home<br>
 
-IW7-Scripts - An Attempt at accurate structuring for GSC, with mostly labelled scripts and functions.
+IW7-Scripts - An Attempt at accurate structuring for GSC, with mostly labelled scripts and functions.<br>
 
 
-** Publicly Available Projects **
-The Following Projects are available for Call of Duty Infinite Warfare, Either for IW7-Mod, or Infinity Loader. 
-[Synergy](https://github.com/SyndiShanX/Synergy-IW-GSC-Menu) - a Mod Menu for Campaign, MP, and Zombies.
+**Publicly Available Projects**<br>
+The Following Projects are available for Call of Duty Infinite Warfare, Either for IW7-Mod, or Infinity Loader. <br>
+[Synergy](https://github.com/SyndiShanX/Synergy-IW-GSC-Menu) - a Mod Menu for Campaign, MP, and Zombies.<br>
 [YetAnotherModMenu](https://github.com/TheUnknownCod3r/GSC-Related-Mods/tree/main/Infinite%20Warfare) - Two different Versions, one for Inifinity Loader, one for IW7-Mod. InfinityLoader edition is more up to date.
 **CREDIT**
 
