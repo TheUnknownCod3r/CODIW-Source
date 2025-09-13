@@ -1,0 +1,484 @@
+{
+49779 "0.00100"
+66370 "128.0"
+66369 "8.0"
+157 "worldspawn"
+337 "1"
+66201 "1"
+66199 "1.5"
+66198 "0"
+66210 "0"
+66196 "0.5 0.5 0.5"
+8259 "4"
+721 ".15"
+719 "0.71 0.79 0.98"
+720 "-52 -142 0"
+12769 "1"
+51962 "1"
+44223 "1"
+543 "0 0 0"
+29493 "1"
+4435 "b0_e0"
+5036 "2 0 2 0"
+}
+{
+65 "0 90 0"
+822 "auto1"
+543 "-325.1 -1646.5 67"
+157 "script_origin"
+}
+{
+543 "-576 -1872 8"
+822 "default_player_start"
+157 "script_struct"
+}
+{
+543 "-440 -1944 20"
+157 "node_pathnode"
+}
+{
+543 "-512 -1936 4"
+65 "0 89.9997 0"
+157 "info_player_start"
+}
+{
+543 "-512 -1880 20"
+157 "node_pathnode"
+}
+{
+543 "-576 -1944 20"
+157 "node_pathnode"
+}
+{
+543 "-360 -976 72"
+822 "map_select_1"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+822 "shocked_guy"
+65 "0 321.6 0"
+543 "-50.8 -1571.4 2"
+157 "script_origin"
+}
+{
+820 "auto2"
+65 "0 90 0"
+822 "back_to_main_view"
+543 "-325.1 -1646.5 67"
+157 "script_origin"
+}
+{
+822 "kneeling_guy"
+65 "0 141.6 0"
+543 "-64.2 -1596.6 2"
+157 "script_origin"
+}
+{
+4524 "0.000000 1.000000 0.000000"
+543 "-532.5 -1829.5 -5.5"
+65 "0 225 0"
+822 "shooting_01"
+157 "script_origin"
+}
+{
+822 "cashier_zombie_spawn"
+65 "0 270 0"
+543 "-329 -1416 3"
+157 "script_origin"
+}
+{
+65 "343.4 73.4 2.43913e-06"
+822 "main_to_online"
+820 "auto1"
+543 "-594.5 -2002.8 6.4"
+157 "script_origin"
+}
+{
+822 "auto2"
+65 "343.4 73.4 2.43913e-06"
+543 "-594.5 -2002.8 6.4"
+157 "script_origin"
+}
+{
+822 "auto3"
+65 "0 90 0"
+543 "61 603 -26.5"
+157 "script_origin"
+}
+{
+822 "lobby"
+820 "auto3"
+65 "4.59973 89.9999 -5.47742e-07"
+543 "56 185 74"
+157 "script_origin"
+}
+{
+820 "auto6"
+65 "0 90 0"
+822 "setup_deck"
+543 "-325.1 -1646.5 67"
+157 "script_origin"
+}
+{
+820 "auto7"
+822 "auto6"
+65 "0 90 0"
+543 "-205.1 -1471 67"
+157 "script_origin"
+}
+{
+820 "auto11"
+822 "auto10"
+65 "4 0 0"
+543 "-77.7 -920.8 83.4"
+157 "script_origin"
+}
+{
+822 "zombie_street_spawners"
+65 "0 180 0"
+543 "178.5 -1886.3 -6"
+157 "script_origin"
+}
+{
+820 "auto10"
+822 "auto7"
+65 "0 90 0"
+543 "-205.1 -967.5 67"
+157 "script_origin"
+}
+{
+822 "zombie_street_spawners"
+65 "0 180 0"
+543 "133 -1635.5 1.5"
+157 "script_origin"
+}
+{
+822 "auto11"
+65 "4 0 0"
+543 "31.3 -920.8 83.4"
+157 "script_origin"
+}
+{
+822 "zombie_street_spawners"
+65 "0 180 0"
+543 "212 -1627 1.5"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 86.0993 0"
+543 "-2.4 903.2 -125"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 84.4992 0"
+543 "-28.7 905.3 -125"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 94.4982 0"
+543 "142.2 905.9 -125"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 99.8987 0"
+543 "194.1 912.6 -125"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 94.3978 0"
+543 "116.4 774.5 -119"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 94.8969 0"
+543 "141.8 776.2 -119"
+157 "script_origin"
+}
+{
+4524 "0.000000 1.000000 0.000000"
+543 "-373.5 -2006.5 -5.5"
+65 "0 163.4 0"
+822 "mugging_01"
+157 "script_origin"
+}
+{
+543 "-440 -944 74"
+822 "map_select_0"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+822 "shocked_guy"
+65 "0 0 0"
+543 "-618 -1746 -5.5"
+157 "script_origin"
+}
+{
+822 "kneeling_guy"
+65 "0 180 0"
+543 "-616 -1783 -5.5"
+157 "script_origin"
+}
+{
+822 "zm_lobby_cam"
+65 "0 90 0"
+543 "61 603 -26.5"
+157 "script_origin"
+}
+{
+157 "script_brushmodel"
+543 "58 1299 119"
+497 "*1"
+51961 "scriptbrushmodeldummydefault"
+}
+{
+543 "-288 -976 72"
+822 "map_select_2"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+543 "-216 -976 72"
+822 "map_select_3"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+543 "-144 -976 72"
+822 "map_select_4"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+4524 "0.000000 1.000000 0.000000"
+543 "-405.5 -1913.5 -5.5"
+65 "0 163.4 0"
+822 "mugging_02"
+157 "script_origin"
+}
+{
+4524 "0.000000 1.000000 0.000000"
+543 "-242.5 -1749.5 -5.5"
+65 "0 163.4 0"
+822 "mugging_03"
+157 "script_origin"
+}
+{
+4524 "0.000000 1.000000 0.000000"
+543 "-428.5 -1948.5 -5.5"
+65 "0 85.9995 0"
+822 "dragging_02"
+157 "script_origin"
+}
+{
+4524 "0.000000 1.000000 0.000000"
+543 "-481.5 -1882.5 -5.5"
+65 "0 180 0"
+822 "dragging_01"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 84.5965 0"
+543 "-3.1 774.5 -119"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 78.0959 0"
+543 "-105.3 850.6 -125"
+157 "script_origin"
+}
+{
+543 "-19.5 -486 232"
+822 "barracks_cam"
+65 "0 59.9994 0"
+157 "script_origin"
+}
+{
+822 "sitting_guys"
+65 "0 81.8937 0"
+543 "-80.4 845.6 -125"
+157 "script_origin"
+}
+{
+543 "-26 -330 225.5"
+157 "script_origin"
+}
+{
+822 "zombie_street_spawners"
+65 "0 180 0"
+543 "161 -1736.8 -6"
+157 "script_origin"
+}
+{
+822 "map_select_poster"
+543 "-431.5 -889.5 33"
+65 "0 270 0"
+497 "zmb_poster_spaceland"
+157 "script_model"
+}
+{
+822 "front_marquee_sign"
+543 "-331 -1604 138"
+497 "zmb_fe_theater_sign_zom_in_spaceland"
+157 "script_model"
+}
+{
+822 "concession_light"
+687 "4"
+49550 "1"
+543 "1715 181.5 -795.5"
+12845 "80"
+29508 "65"
+29507 "50"
+27146 "1"
+820 "pf92_auto12353"
+20434 "light_point_linear"
+599 "150"
+4524 "0.992157 0.890196 0.709804"
+39397 "40"
+157 "light_spot"
+4434 "0 0 0"
+4431 "0 0 0"
+4433 "prefabs/cp/cp_frontend/cp_frontend_arcade_lights.map"
+4432 "11"
+4435 "b11_e11_p3_p38"
+51962 "1"
+39409 "19735.3"
+1 "45"
+}
+{
+822 "fnf_jaw"
+543 "1881 173.5 -882.2"
+65 "0 270 0"
+497 "zmb_fortune_teller_machine_jaw_02"
+157 "script_model"
+}
+{
+65 "0 90 0"
+543 "1881 166 -900.5"
+157 "script_struct_mini"
+}
+{
+822 "gun_light"
+687 "4"
+65 "0 208 0"
+39397 "10"
+12845 "20"
+12849 "2"
+543 "1716.7 63.8 -874"
+29508 "150"
+29507 "59"
+27146 "1"
+820 "pf93_auto2"
+599 "100"
+4524 "1 0.968627 0.92549"
+157 "light_spot"
+4434 "0 0 0"
+4431 "0 0 0"
+4433 "prefabs/cp/cp_frontend/script_concessions.map"
+4432 "7"
+4435 "b7_e7_p6_p3_p38"
+51962 "1"
+39409 "4933.81"
+1 "46"
+}
+{
+497 "weapon_sdfar_wm_camo"
+65 "0 208 0"
+822 "weapon_loc"
+543 "1716.6 85.3 -896"
+157 "script_origin"
+}
+{
+822 "player_card_cam_static"
+543 "1881.2 137.9 -891.7"
+65 "347.7 90 0"
+157 "script_origin"
+}
+{
+822 "pf93_auto12349"
+543 "1881.2 137.9 -891.7"
+65 "347.7 90 0"
+157 "script_origin"
+}
+{
+65 "0 90 0"
+822 "player_weapon_cam"
+543 "1711 37 -898"
+157 "script_origin"
+}
+{
+65 "0 90 0"
+822 "player_loadout_cam"
+543 "1713 13 -868.5"
+157 "script_origin"
+}
+{
+820 "pf93_auto12349"
+822 "player_card_cam"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+820 "consumable_to_loadout_target"
+822 "consumable_to_loadout"
+543 "1881.2 137.9 -891.7"
+65 "347.7 90 0"
+157 "script_origin"
+}
+{
+822 "consumable_to_loadout_target"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+822 "pf93_auto12350"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+820 "pf93_auto12350"
+822 "loadout_to_buildkit"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+820 "pf93_auto12351"
+822 "buildkit_to_loadout"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+822 "pf93_auto12351"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+820 "player_weapon_cam"
+822 "buildkit_to_weaponselect"
+543 "1713 13 -868.5"
+65 "0 90 0"
+157 "script_origin"
+}
+{
+65 "0 90 0"
+820 "pf93_auto12350"
+822 "weapon_to_buildkit"
+543 "1711 37 -898"
+157 "script_origin"
+}
