@@ -1,0 +1,16 @@
+hmx,CP_TOWN_CHEMISTRY_EXPLO_HM,final,hexamine,ammoniumnitrate,aceticacid,nitricacid
+formaldehyde,CP_TOWN_CHEMISTRY_FORMALDEHYDE,componant,methanol,silver,,
+hexamine,CP_TOWN_CHEMISTRY_HEXAMINE,componant,formaldehyde,ammonia,,
+tnp,CP_TOWN_CHEMISTRY_EXPLO_TP,final,phenolsulfonic,nitricacid,,
+phenol,CP_TOWN_CHEMISTRY_PHENOL,componant,propene,benzene,phosphoricacid,
+phenolsulfonic,CP_TOWN_CHEMISTRY_PHENOLSULFONIC,componant,phenol,sulfuricacid,,
+petn,CP_TOWN_CHEMISTRY_EXPLO_PE,final,aldehydesludge,acetone,,
+acetaldehyde,CP_TOWN_CHEMISTRY_ACETALDEHYDE,componant,ethanol,copper,,
+aldehydesludge,CP_TOWN_CHEMISTRY_ALDEHYDE_SLUDGE,componant,formaldehyde,acetaldehyde,nitricacid,
+tnt,CP_TOWN_CHEMISTRY_EXPLO_TN,final,dinitro,methanol,,
+methylbenzene,CP_TOWN_CHEMISTRY_METHYLBENZENE,componant,nitricacid,sulfuricacid,toluene,
+dinitro,CP_TOWN_CHEMISTRY_DINITRO,componant,sodiumbicarbonate,nitricacid,aceticacid,methylbenzene
+nitro,CP_TOWN_CHEMISTRY_EXPLO_NI,final,nitglysol,sodiumbicarbonate,,
+glycerol,CP_TOWN_CHEMISTRY_GLYCEROL,componant,animalfat,ethanol,,
+mixedacid,CP_TOWN_CHEMISTRY_MIXED_ACID,componant,sulfuricacid,nitricacid,chill,
+nitglysol,CP_TOWN_CHEMISTRY_NITGLYSOL,componant,glycerol,mixedacid,,

@@ -1,0 +1,91 @@
+body
+{
+	IW7_cp_zom_brute_run_attack_01		/// TEMP
+	
+	
+	//move
+	IW7_cp_super_run_forward_01
+	IW7_cp_super_run_start
+	IW7_cp_super_run_stop_l
+	IW7_cp_super_run_stop_r
+	
+	//idle,taunt
+	IW7_cp_super_stand_idle_01
+	IW7_cp_super_stand_idle_02
+	IW7_cp_super_stand_idle_03
+	IW7_cp_super_taunt_01
+	IW7_cp_super_taunt_02
+	IW7_cp_super_taunt_03
+	IW7_cp_super_taunt_04
+	IW7_cp_super_taunt_05
+	IW7_cp_super_taunt_06
+	IW7_cp_super_taunt_07
+	IW7_cp_super_taunt_intro
+	
+	//turn
+	IW7_cp_super_run_turn_1l
+	IW7_cp_super_run_turn_2l
+	IW7_cp_super_run_turn_3l
+	IW7_cp_super_run_turn_4l
+	IW7_cp_super_run_turn_6l
+	IW7_cp_super_run_turn_7l
+	IW7_cp_super_run_turn_9l
+	IW7_cp_super_run_turn_1r
+	IW7_cp_super_run_turn_2r
+	IW7_cp_super_run_turn_3r
+	IW7_cp_super_run_turn_4r
+	IW7_cp_super_run_turn_6r
+	IW7_cp_super_run_turn_7r
+	IW7_cp_super_run_turn_9r
+	IW7_cp_super_turn_1
+	IW7_cp_super_turn_2l
+	IW7_cp_super_turn_2r
+	IW7_cp_super_turn_3
+	IW7_cp_super_turn_4
+	IW7_cp_super_turn_6
+	IW7_cp_super_turn_7
+	IW7_cp_super_turn_9
+	
+	//attack
+	IW7_cp_super_attack_swipe
+	IW7_cp_super_attack_stomp
+	IW7_cp_super_attack_saw_throw
+	IW7_cp_super_attack_saw_charging_start
+	IW7_cp_super_attack_saw_charging_loop
+	IW7_cp_super_attack_pound_two
+	IW7_cp_super_attack_pound_one
+	IW7_cp_super_summon_01
+	IW7_cp_super_summon_02
+	IW7_cp_super_summon_03
+	IW7_cp_super_summon_04
+	IW7_cp_super_attack_shockwave_enter
+	IW7_cp_super_attack_shockwave_loop
+	IW7_cp_super_attack_shockwave_end
+	
+	//pain,death
+	IW7_cp_super_pain_01
+	IW7_cp_super_pain_02
+	IW7_cp_super_pain_03
+	IW7_cp_super_death_01
+	IW7_cp_super_death_02
+	
+	//traversal
+	IW7_cp_super_traversal_jump_up_start_01
+	IW7_cp_super_traversal_jump_up_loop_01
+	IW7_cp_super_traversal_jump_up_end_01
+	IW7_cp_super_traversal_jump_short
+	IW7_cp_super_traversal_jump_down_start_01
+	IW7_cp_super_traversal_jump_down_loop_01
+	IW7_cp_super_traversal_jump_down_end_01
+	IW7_cp_super_traversal_jump_flat_start_01
+	IW7_cp_super_traversal_jump_flat_loop_01
+	IW7_cp_super_traversal_jump_flat_end_01
+	IW7_cp_super_traversal_jump_flat_start_02
+	IW7_cp_super_traversal_jump_flat_loop_02
+	IW7_cp_super_traversal_jump_flat_end_02
+	IW7_cp_super_traversal_jump_double
+	IW7_cp_super_traversal_roof_jump_down_01
+	IW7_cp_super_traversal_roof_jump_up_01
+	
+	
+}

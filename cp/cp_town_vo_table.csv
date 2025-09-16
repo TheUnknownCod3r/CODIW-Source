@@ -1,0 +1,714 @@
+0,activate_power,120,100,,power,,,,,0,5,medium,0,All Players,0,0,0
+1,activate_trap_generic,180,100,,trap,,,,,1,5,low,0,All Players,0,0,0
+2,activate_trap_rocket,180,100,,trap,,,,,1,5,low,0,All Players,0,0,0
+3,activate_trap_rollercoaster,180,100,,game,,,,,1,5,low,0,All Players,0,0,0
+6,arcade_complete,120,100,,game,,,,,1,5,low,0,All Players,1,0,0
+7,arcade_token_earn,,100,,,,,,,1,5,low,0,All Players,1,0,0
+8,arcade_token_revive,,100,,,,,,,1,5,low,0,All Players,1,0,0
+9,arcade_token_revive_first,,100,,,,,,,1,5,low,0,All Players,1,0,0
+10,atm_deposit,15,100,,,,,,,1,2,low,0,All Players,0,0,0
+11,basketball_anc_highscore,,100,,,,,,,1,5,low,0,,1,0,0
+12,basketball_anc_quickshot,,100,,,,,,,1,5,low,0,,1,0,0
+13,challenge_fail_solo,60,100,5,challenge,,,,,1,2,low,0,All Players,0,0,0
+14,challenge_fail_team,60,100,5,challenge,,,,,1,2,low,0,All Players,0,0,0
+15,challenge_success_generic,60,100,5,challenge,,,,,1,5,low,0,All Players,0,0,0
+16,clownwave_wavestart ,,100,,,,,,,1,5,low,0,,0,0,0
+22,craft_success,120,100,,,,,,,1,5,low,0,All Players,0,0,0
+23,injured_pain_vocal,15,100,,,,,,,1,2,low,1,All Players,0,0,0
+24,intro,,100,,,,,,,1,5,low,0,,0,0,0
+25,kill_trap_generic,200,5,,kill,trap,,,,1,5,low,0,All Players,0,0,0
+26,killfirm,180,10,,kill,,,,,1,5,low,0,All Players,0,0,0
+30,killfirm_headshot,180,10,,kill,special_weapon,,,,1,5,medium,0,All Players,0,0,0
+31,laststand,,100,,,,,,,1,5,low,0,All Players,1,0,0
+32,laststand_bleedout,,100,,,,,,,1,5,low,0,All Players,1,0,0
+33,ww_magicbox_laughter ,,100,,,,,,,1,5,high,0,,0,0,0
+34,magicwheel_badspin,,100,,,,,,,1,5,low,0,All Players,0,0,0
+35,magicwheel_weapon,,100,,,,,,,1,5,low,0,All Players,0,0,0
+36,nag_activate_power,400,40,,,power,,,,1,60,low,0,All Players,0,0,0
+37,nag_board_windows,90,40,,nag,barriers,,,,1,5,low,0,All Players,0,0,0
+38,nag_find_pap,90,40,,nag,pap,,,,1,5,low,0,All Players,0,0,0
+39,nag_low_ammo,90,100,,nag,ammo,,,,1,5,low,0,All Players,0,0,0
+40,nag_need_fateandfort,540,70,,nag,cards,,,,1,3,low,0,All Players,0,0,0
+41,nag_no_challenge,90,100,,nag,challenge,,,,1,5,low,0,All Players,0,0,0
+42,nag_out_ammo,90,100,,nag,ammo,,,,1,5,low,0,All Players,0,0,0
+43,nag_try_perk,540,70,,nag,perk,,,,1,5,low,0,All Players,0,0,0
+44,nag_use_fateandfort,540,70,,nag,cards,,,,1,5,low,0,All Players,0,0,0
+45,nag_use_portal,540,100,,nag,portals,,,,1,5,low,0,All Players,0,0,0
+51,no_cash,15,100,,money,,,,,1,5,high,0,All Players,0,0,0
+52,no_power,15,100,,power,,,,,1,5,high,0,All Players,0,0,0
+55,pap_nag,60,100,,nag,pap,,,,1,5,low,0,,0,1,0
+56,pap_room_first,,100,,pap,,,,,1,5,high,0,All Players,0,1,0
+57,perk_use,,100,,perk,,,,,1,5,high,0,All Players,0,0,0
+58,pillage_ammo,15,100,,pillage,,,,,1,2,medium,0,All Players,0,0,0
+59,pillage_attachment,15,100,,pillage,,,,,1,2,medium,0,All Players,0,0,0
+60,pillage_craft,15,100,,pillage,,,,,1,2,medium,0,All Players,0,0,0
+61,pillage_generic,15,100,,pillage,,,,,1,2,medium,0,All Players,0,0,0
+62,pillage_grenade,15,100,,pillage,,,,,1,2,medium,0,All Players,0,0,0
+63,pillage_specialammo,15,100,,pillage,,,,,1,2,medium,0,All Players,0,0,0
+64,player_purchase_assault,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+65,player_purchase_launcher,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+66,player_purchase_pistol,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+67,player_purchase_shotgun,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+68,player_purchase_smg,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+69,player_purchase_sniper,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+70,player_purchase_wonder,30,100,,weapon,,,,,1,4,medium,0,All Players,0,0,0
+71,portal_exit,40,100,,,,,,,1,2,high,0,,0,0,0
+72,powerup_2xmoney,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+73,powerup_2xpoints,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+74,powerup_ammo,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+75,powerup_carpenter,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+76,powerup_doublemoney,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+77,powerup_firesale,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+78,powerup_grenade,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+79,powerup_infiniteammo,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+80,powerup_infinitegrenades,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+81,powerup_instakill,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+82,powerup_maxammo,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+83,powerup_maxarmor,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+84,powerup_nuke,5,100,,,,,,,1,5,high,0,All Players,0,0,0
+85,purchase_area,15,100,,door_purchase,,,,,1,5,low,0,All Players,0,0,0
+86,purchase_perk,30,100,,perk,,,,,1,10,high,0,All Players,0,0,0
+87,purchase_perk_bangbangs,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+88,purchase_perk_bluebolts,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+89,purchase_perk_bombstoppers,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+90,purchase_perk_nulemunchies,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+91,purchase_perk_quickies,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+92,purchase_perk_racinstripes,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+93,purchase_perk_revive_solo,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+94,purchase_perk_slappytaffy,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+95,purchase_perk_trailblazers,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+96,purchase_perk_tuffnuff,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+97,purchase_perk_upnatoms,30,100,,perk,,,,,1,5,low,0,All Players,0,0,0
+99,purchase_weapon,10,100,,purchase,,,,,1,5,medium,0,All Players,0,0,0
+100,reinforce_window,120,100,3,,,,,,1,2,low,0,All Players,0,0,0
+101,respawn_laststand,,100,,,,,,,1,5,low,0,All Players,1,0,0
+102,respawn_round,,100,,,,,,,1,5,low,0,All Players,1,0,0
+103,revived,120,100,,,,,,,1,5,low,0,All Players,1,0,0
+104,reviving,120,100,,,,,,,1,5,low,0,All Players,1,0,0
+105,round_cooldown,60,100,,,,,,,1,5,low,0,All Players,1,0,0
+126,shooting_gall_anc_activate,,100,,,,,,,1,5,low,0,,1,0,0
+127,shooting_gall_anc_failure,,100,,,,,,,1,5,low,0,,1,0,0
+128,shooting_gall_anc_hit_target,,100,,,,,,,1,5,low,0,,1,0,0
+129,shooting_gall_anc_success,,100,,,,,,,1,5,low,0,,1,0,0
+130,souvenir_coin_station,30,100,,crafting,,,,,1,5,low,0,All Players,0,0,0
+131,souvenir_craft_success,,100,,crafting,,,,,1,5,low,0,All Players,0,0,0
+132,spawn_arcade,,100,,,,,,,1,25,low,2,All Players,1,0,0
+133,spawn_arcade_first,,100,1,,,,,,1,25,low,2,All Players,1,0,0
+134,spawn_intro,,100,1,,,,,,1,5,low,0,All Players,0,0,0
+135,spawn_solo_first,,100,1,,,,,,1,5,low,0,All Players,0,0,0
+136,spawn_team_first,,100,1,,,,,,1,5,low,0,All Players,0,0,0
+142,weapon_pap,60,100,,,,,,,1,5,low,0,All Players,0,0,0
+143,withdraw_cash,15,10,,,,,,,1,2,low,0,All Players,0,0,0
+144,wonder_consume,,100,,,,,,,1,5,low,0,All Players,0,0,0
+145,wonder_restock,,100,,,,,,,1,5,low,0,All Players,0,0,0
+146,melee_splice,5,50,,,,,,,1,1,medium,0,All Players,0,0,0
+147,melee_miss,15,20,,,,,,,1,1,low,0,All Players,0,0,0
+148,melee_fatal,10,50,,kill,,,,,1,1,low,0,All Players,0,0,0
+152,ww_powerup_2xmoney,,100,,,,,,,0,5,high,0,All Players,0,0,0
+153,ww_powerup_2xpoints,,100,,,,,,,0,5,high,0,All Players,0,0,0
+154,ww_powerup_ammo,,100,,,,,,,0,5,high,0,All Players,0,0,0
+155,ww_powerup_carpenter,,100,,,,,,,0,5,high,0,All Players,0,0,0
+156,ww_powerup_doublemoney,,100,,,,,,,0,5,high,0,All Players,0,0,0
+157,ww_powerup_firesale,,100,,,,,,,1,4,high,0,All Players,0,0,0
+158,ww_powerup_grenade,,70,,,,,,,0,5,high,0,All Players,0,0,0
+159,ww_powerup_infiniteammo,,70,,,,,,,0,5,high,0,All Players,0,0,0
+160,ww_powerup_infinitegrenades,0,100,,,,,,,1,10,highest,0,All Players,0,0,0
+161,ww_powerup_instakill,0,100,,,,,,,1,10,highest,0,All Players,0,0,0
+162,ww_powerup_maxammo,0,100,,,,,,,1,10,highest,0,All Players,0,0,0
+163,ww_powerup_maxarmor,0,100,,,,,,,1,10,highest,0,All Players,0,0,0
+164,ww_powerup_nuke,0,100,,,,,,,1,10,highest,0,All Players,0,0,0
+165,ww_pap_nag,0,100,,,,,,,1,10,highest,0,All Players,0,0,0
+166,ww_p5_taunt,0,100,,,,,,,0,50,highest,0,All Players,0,0,0
+183,melee_special,180,10,,,,,,,1,5,low,0,All Players,0,0,0
+184,respawn_laststand_aj,,100,,,,,,,1,3,low,0,All Players,0,0,0
+185,laststand_coaster,5,50,,,,,,,1,2,medium,0,All Players,0,0,0
+186,pillage_cash,180,40,,,,,,,1,5,medium,0,All Players,0,0,0
+187,pap_collect_fuse,180,100,,,,,,,1,5,highest,0,All Players,0,0,0
+188,pap_place_fuse,180,100,,,,,,,1,5,highest,0,All Players,0,0,0
+189,purchase_perk_deadeyedewdrop,,50,,,,,,,1,5,highest,0,All Players,0,0,0
+190,ww_afterlife_overstay,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+191,ww_intro,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+192,ww_intro_p1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+193,ww_intro_p3,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+194,ww_intro_p4,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+195,ww_intro_p2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+196,ww_intro_p5,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+197,ww_access_area,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+198,ww_activate_trap_cars,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+199,ww_activate_trap_pool,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+200,ww_activate_trap_transformer,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+201,ww_activate_trap_freezer,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+202,ww_activate_trap_propane,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+203,ww_activate_trap_gasroom,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+204,ww_activate_trap_darts,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+205,ww_activate_trap_generic,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+206,ww_afterlife_p4_generic,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+207,ww_afterlife_p4_notoken,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+208,ww_afterlife_p1_generic,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+209,ww_afterlife_p1_notoken,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+210,ww_afterlife_p3_generic,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+211,ww_afterlife_p3_notoken,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+212,ww_afterlife_p2_generic,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+213,ww_afterlife_p2_notoken,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+214,ww_afterlife_p5_generic,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+215,ww_afterlife_p5_notoken,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+216,ww_afterlife_overstay,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+217,ww_nag_color_alternate,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+218,ww_pap_nag,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+219,ww_crog_wavestart,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+220,ww_crog_spawn_elvira,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+221,ww_crog_defeat_generic,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+222,ww_crog_defeat_elvira,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+223,ww_crog_spawn_final,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+224,ww_crog_defeat_final,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+225,ww_intro_p5_solo,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+226,ww_p5_taunt,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+227,ww_easteregg_complete,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+228,ww_quest_failure,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+229,ww_afterlife_arrive,15,100,,,,,,,1,5,highest,0,All Players,1,0,0
+230,ww_diary_sally_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+231,ww_diary_sally_2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+232,ww_diary_sally_3,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+233,ww_diary_aj_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+234,ww_diary_aj_2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+235,ww_diary_aj_3,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+236,ww_diary_andre_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+237,ww_diary_andre_2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+238,ww_diary_andre_3,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+239,ww_diary_pdex_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+240,ww_diary_pdex_2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+241,ww_diary_pdex_3,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+242,ww_diary_orig4_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+243,ww_diary_orig4_2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+244,ww_diary_winona_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+245,ww_diary_alexandra_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+246,ww_diary_willard_1,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+247,ww_diary_willard_2,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+248,ww_powerup_elvira,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+249,ww_summon_elvira,15,100,,,,,,,1,5,highest,0,All Players,0,0,0
+250,sally_meet_elvira_1,,100,1,,,,p1_,el_sally_meet_elvira_2,1,5,high,0,,0,0,0
+251,el_sally_meet_elvira_2,,100,1,,,,,sally_meet_elvira_3,1,5,high,0,,0,0,0
+252,sally_meet_elvira_3,,100,1,,,,p1_,el_sally_meet_elvira_4,1,5,high,0,,0,0,0
+253,el_sally_meet_elvira_4,,100,1,,,,,sally_meet_elvira_5,1,5,high,0,,0,0,0
+254,sally_meet_elvira_5,,100,1,,,,p1_,el_sally_meet_elvira_6,1,5,high,0,,0,0,0
+255,el_sally_meet_elvira_6,,100,1,,,,,sally_meet_elvira_7,1,5,high,0,,0,0,0
+256,sally_meet_elvira_7,,100,1,,,,p1_,el_sally_meet_elvira_8,1,5,high,0,,0,0,0
+257,el_sally_meet_elvira_8,,100,1,,,,,sally_meet_elvira_9,1,5,high,0,,0,0,0
+258,sally_meet_elvira_9,,100,1,,,,p1_,el_sally_meet_elvira_10,1,5,high,0,,0,0,0
+259,el_sally_meet_elvira_10,,100,1,,,,,sally_meet_elvira_11,1,5,high,0,,0,0,0
+260,sally_meet_elvira_11,,100,1,,,,p1_,el_sally_meet_elvira_12,1,5,high,0,,0,0,0
+261,el_sally_meet_elvira_12,,100,1,,,,,,1,5,high,0,,0,0,0
+262,andre_meet_elvira_1,,100,1,,,,p3_,el_andre_meet_elvira_2,1,5,high,0,,0,0,0
+263,el_andre_meet_elvira_2,,100,1,,,,,andre_meet_elvira_3,1,5,high,0,,0,0,0
+264,andre_meet_elvira_3,,100,1,,,,p3_,el_andre_meet_elvira_4,1,5,high,0,,0,0,0
+265,el_andre_meet_elvira_4,,100,1,,,,,andre_meet_elvira_5,1,5,high,0,,0,0,0
+266,andre_meet_elvira_5,,100,1,,,,p3_,el_andre_meet_elvira_6,1,5,high,0,,0,0,0
+267,el_andre_meet_elvira_6,,100,1,,,,,andre_meet_elvira_7,1,5,high,0,,0,0,0
+268,andre_meet_elvira_7,,100,1,,,,p3_,el_andre_meet_elvira_8,1,5,high,0,,0,0,0
+269,el_andre_meet_elvira_8,,100,1,,,,,andre_meet_elvira_9,1,5,high,0,,0,0,0
+270,andre_meet_elvira_9,,100,1,,,,p3_,el_andre_meet_elvira_10,1,5,high,0,,0,0,0
+271,el_andre_meet_elvira_10,,100,1,,,,,andre_meet_elvira_11,1,5,high,0,,0,0,0
+272,andre_meet_elvira_11,,100,1,,,,p3_,el_andre_meet_elvira_12,1,5,high,0,,0,0,0
+273,el_andre_meet_elvira_12,,100,1,,,,,,1,5,high,0,,0,0,0
+274,pdex_meet_elvira_1,,100,1,,,,p2_,el_poindexter_meet_elvira_2,1,5,high,0,,0,0,0
+275,el_poindexter_meet_elvira_2,,100,1,,,,,pdex_meet_elvira_3,1,5,high,0,,0,0,0
+276,pdex_meet_elvira_3,,100,1,,,,p2_,el_poindexter_meet_elvira_4,1,5,high,0,,0,0,0
+277,el_poindexter_meet_elvira_4,,100,1,,,,,pdex_meet_elvira_5,1,5,high,0,,0,0,0
+278,pdex_meet_elvira_5,,100,1,,,,p2_,el_poindexter_meet_elvira_6,1,5,high,0,,0,0,0
+279,el_poindexter_meet_elvira_6,,100,1,,,,,pdex_meet_elvira_7,1,5,high,0,,0,0,0
+280,pdex_meet_elvira_7,,100,1,,,,p2_,el_poindexter_meet_elvira_8,1,5,high,0,,0,0,0
+281,el_poindexter_meet_elvira_8,,100,1,,,,,pdex_meet_elvira_9,1,5,high,0,,0,0,0
+282,pdex_meet_elvira_9,,100,1,,,,p2_,el_poindexter_meet_elvira_10,1,5,high,0,,0,0,0
+283,el_poindexter_meet_elvira_10,,100,1,,,,,,1,5,high,0,,0,0,0
+284,aj_meet_elvira_1,,100,1,,,,p4_,el_aj_meet_elvira_2,1,5,high,0,,0,0,0
+285,el_aj_meet_elvira_2,,100,1,,,,,aj_meet_elvira_3,1,5,high,0,,0,0,0
+286,aj_meet_elvira_3,,100,1,,,,p4_,el_aj_meet_elvira_4,1,5,high,0,,0,0,0
+287,el_aj_meet_elvira_4,,100,1,,,,,aj_meet_elvira_5,1,5,high,0,,0,0,0
+288,aj_meet_elvira_5,,100,1,,,,p4_,el_aj_meet_elvira_6,1,5,high,0,,0,0,0
+289,el_aj_meet_elvira_6,,100,1,,,,,aj_meet_elvira_7,1,5,high,0,,0,0,0
+290,aj_meet_elvira_7,,100,1,,,,p4_,el_aj_meet_elvira_8,1,5,high,0,,0,0,0
+291,el_aj_meet_elvira_8,,100,1,,,,,aj_meet_elvira_9,1,5,high,0,,0,0,0
+292,aj_meet_elvira_9,,100,1,,,,p4_,el_aj_meet_elvira_10,1,5,high,0,,0,0,0
+293,el_aj_meet_elvira_10,,100,1,,,,,aj_meet_elvira_11,1,5,high,0,,0,0,0
+294,aj_meet_elvira_11,,100,1,,,,p4_,el_aj_meet_elvira_12,1,5,high,0,,0,0,0
+295,el_aj_meet_elvira_12,,100,1,,,,,,1,5,high,0,,0,0,0
+296,killfirm_ww_1,25,30,,,,,,,1,5,low,0,,0,0,0
+297,killfirm_ww_2,25,30,,,,,,,1,5,low,0,,0,0,0
+298,killfirm_ww_3,25,30,,,,,,,1,5,low,0,,0,0,0
+299,killfirm_crabgoon,25,30,,,,,,,1,5,high,0,,0,0,0
+300,killfirm_radactivecrab,60,30,,,,,,,1,5,high,0,,0,0,0
+301,injured_pain_crabgoon,60,30,,,,,,,1,5,high,0,,0,0,0
+302,injured_pain_radactivecrab,60,30,,,,,,,1,5,high,0,,0,0,0
+303,injured_pain_radboss,60,30,,,,,,,1,5,high,0,,0,0,0
+306,purchase_area_drivein,,100,1,,,,,,1,5,high,0,,0,0,0
+307,purchase_area_rvpark,,100,1,,,,,,1,5,high,0,,0,0,0
+308,purchase_area_elvirabcs,,100,1,,,,,,1,5,high,0,,0,0,0
+309,purchase_area_highway,,100,1,,,,,,1,5,high,0,,0,0,0
+310,purchase_area_cliffside,,100,1,,,,,,1,5,high,0,,0,0,0
+311,purchase_area_shore,,100,1,,,,,,1,5,high,0,,0,0,0
+312,purchase_area_misc,90,100,,,,,,,1,5,high,0,,0,0,0
+313,pap_quest_success,,100,,,,,,,1,5,high,0,,0,0,0
+314,weapon_pap,200,100,1,,,,,,1,5,high,0,,0,0,0
+315,weapon_pap_ww1_1,200,100,1,,,,,,1,5,high,0,,0,0,0
+316,weapon_pap_ww1_2,200,100,1,,,,,,1,5,high,0,,0,0,0
+317,pap_upgrade,90,100,,,,,,,1,5,high,0,,0,0,0
+318,nag_find_pap,90,100,,,,,,,1,5,high,0,,0,0,0
+319,collect_craft_misc,90,100,,,,,,,1,5,high,0,,0,0,0
+320,missing_item_misc,90,100,,,,,,,1,5,high,0,,0,0,0
+321,access_ghostnskulls,90,100,,,,,,,1,5,high,0,,0,0,0
+322,color_alternate,90,100,,,,,,,1,5,high,0,,0,0,0
+323,purchase_perk_changechews,90,100,,,,,,,1,5,high,0,,0,0,0
+324,collect_craft_blueprint,,100,,,,,,,1,5,high,0,,0,0,0
+326,key_phase_1_collect_head,,100,1,,,,,,1,5,highest,0,,0,0,0
+327,key_phase_1_collect_legs,,100,1,,,,,,1,5,highest,0,,0,0,0
+328,key_phase_1_collect_arms,,100,1,,,,,,1,5,highest,0,,0,0,0
+329,key_phase_1_collect_torso,,100,1,,,,,,1,5,highest,0,,0,0,0
+330,key_phase_1_collect_punchcard_pc,,100,1,,,,,,1,5,highest,0,,0,0,0
+331,key_phase_1_collect_mirror,,100,1,,,,,,1,5,highest,0,,0,0,0
+332,key_phase_1_fail_liferay,,100,1,,,,,,1,5,highest,0,,0,0,0
+333,key_phase_1_success_garage,,100,1,,,,,,1,5,highest,0,,0,0,0
+334,key_phase_1_collect_punchcard_generic,,100,1,,,,,,1,5,highest,0,,0,0,0
+335,key_phase_2_collect_vial,,100,1,,,,,,1,5,highest,0,,0,0,0
+336,key_phase_2_collect_cleaver,,100,1,,,,,,1,5,highest,0,,0,0,0
+337,key_phase_2_success_chemistry,,100,1,,,,,,1,5,highest,0,,0,0,0
+338,key_phase_2_collect_mixture,,100,1,,,,,,1,5,highest,0,,0,0,0
+339,key_phase_3_success_teleporter_craft,,100,1,,,,,,1,5,highest,0,,0,0,0
+340,key_phase_3_success_bomb_const,,100,1,,,,,,1,5,highest,0,,0,0,0
+341,boss_charge_portal_first,,100,1,,,,,,1,5,highest,0,,0,0,0
+342,boss_charge_portal_complete_first,,100,1,,,,,,1,5,highest,0,,0,0,0
+343,key_phase_3_success_bomb_teleport,,100,1,,,,,,1,5,highest,0,,0,0,0
+344,boss_phase_1_success_bomb_escort,,100,1,,,,,,1,5,highest,0,,0,0,0
+345,boss_phase_2_success_cannon,,100,1,,,,,,1,5,highest,0,,0,0,0
+346,boss_phase_2_success_cannon_final,,100,1,,,,,,1,5,highest,0,,0,0,0
+347,boss_phase_3_damage_crog,,100,1,,,,,,1,5,highest,0,,0,0,0
+348,boss_phase_4_wod_retreat,,100,1,,,,,,1,5,highest,0,,0,0,0
+349,boss_charge_portal_generic,,100,1,,,,,,1,5,highest,0,,0,0,0
+350,boss_charge_portal_complete_generic,,100,1,,,,,,1,5,highest,0,,0,0,0
+351,boss_phase_5_attack_sonic_ring,,100,1,,,,,,1,5,highest,0,,0,0,0
+352,boss_phase_6_crog_inside,,100,1,,,,,,1,5,highest,0,,0,0,0
+353,boss_phase_6_fail,,100,,,,,,,1,5,highest,0,,0,0,0
+354,boss_phase_6_success,,100,1,,,,,,1,5,highest,0,,0,0,0
+355,killfirm_crabgoon_first,,100,1,,,,,,1,5,highest,0,,0,0,0
+356,killfirm_radactivecrab_first,,100,1,,,,,,1,5,highest,0,,0,0,0
+357,el_pap_nag_spellbook_prior,,100,,,,,,,1,5,highest,0,,0,0,0
+358,el_pap_nag_spellbook_vial,,100,,,,,,,1,5,highest,0,,0,0,0
+359,el_pap_nag_generic_vial,,100,,,,,,,1,5,highest,0,,0,0,0
+360,el_pap_returned_vial,,100,,,,,,,1,5,highest,0,,0,0,0
+361,el_pap_returned_spellbook_escort,,100,,,,,,,1,5,highest,0,,0,0,0
+362,el_pap_escort_background,,100,,,,,,,1,5,highest,0,,0,0,0
+363,el_pap_nag_energy_warn_timeout,,100,,,,,,,1,5,highest,0,,0,0,0
+364,el_pap_energy_pap_restore,,100,,,,,,,1,5,highest,0,,0,0,0
+365,el_pap_energy_pap_restore_additional,,100,,,,,,,1,5,highest,0,,0,0,0
+366,el_nag_spellbook_pages,,100,,,,,,,1,5,highest,0,,0,0,0
+367,el_returned_spellbook_revival_success,,100,1,,,,,,1,5,highest,0,,0,0,0
+368,el_returned_spellbook_whirlwind_success,,100,1,,,,,,1,5,highest,0,,0,0,0
+369,el_returned_spellbook_all_success,,100,1,,,,,,1,5,highest,0,,0,0,0
+370,el_nag_combat_missing_items,,100,1,,,,,,1,5,highest,0,,0,0,0
+371,el_nag_beachboss_combat_ready,,100,1,,,,,,1,5,highest,0,,0,0,0
+372,el_nag_beachboss_combat_cooldown,,100,1,,,,,,1,5,highest,0,,0,0,0
+373,el_nag_beachboss_combat_inbound,,100,1,,,,,,1,5,highest,0,,0,0,0
+374,el_quest_liferay_mirror_hint,,100,1,,,,,,1,5,highest,0,,0,0,0
+375,el_station_return_post_combat,,100,1,,,,,,1,5,highest,0,,0,0,0
+376,el_deathray_notready,,100,1,,,,,,1,5,highest,0,,0,0,0
+377,el_deathray_ready,,100,1,,,,,,1,5,highest,0,,0,0,0
+378,el_powerup_infiniteammo,,100,,,,,,,1,5,highest,0,,0,0,0
+379,el_powerup_infinitegrenades,,100,,,,,,,1,5,highest,0,,0,0,0
+380,el_powerup_firesale,,100,,,,,,,1,5,highest,0,,0,0,0
+381,el_powerup_carpenter,,100,,,,,,,1,5,highest,0,,0,0,0
+382,el_powerup_instakill,,100,,,,,,,1,5,highest,0,,0,0,0
+383,el_powerup_nuke,,100,,,,,,,0,5,highest,0,,0,0,0
+384,el_powerup_maxammo,,100,,,,,,,0,5,highest,0,,0,0,0
+385,el_powerup_doublemoney,,100,,,,,,,0,5,highest,0,,0,0,0
+386,el_powerup_weaponupgrade,,100,,,,,,,0,5,highest,0,,0,0,0
+387,el_color_restore_first,,100,1,,,,,,1,5,highest,0,,0,0,0
+388,el_specialwave_first_2,,100,1,,,,,,1,5,highest,0,,0,0,0
+389,el_escortingelvira_2,,100,1,,,,,,1,5,highest,0,,0,0,0
+390,el_escortingelvira_4,,100,1,,,,,,1,5,highest,0,,0,0,0
+391,el_elvira_upgrade1_2,,100,1,,,,,,1,5,highest,0,,0,0,0
+392,el_elvira_upgrade1_4,,100,1,,,,,,1,5,highest,0,,0,0,0
+393,el_elvira_upgrade2_1,,100,1,,,,,,1,5,highest,0,,0,0,0
+394,el_elvira_upgrade2_3,,100,1,,,,,,1,5,highest,0,,0,0,0
+395,el_elvira_upgrade2_5,,100,1,,,,,,1,5,highest,0,,0,0,0
+396,el_evirasbook_1,,100,1,,,,,,1,5,highest,0,,0,0,0
+397,el_evirasbook_3,,100,1,,,,,,1,5,highest,0,,0,0,0
+398,el_crogboss_defeat_1,,100,1,,,,,,1,5,highest,0,,0,0,0
+399,el_crogboss_defeat_3,,100,1,,,,,,1,5,highest,0,,0,0,0
+400,ww_specialwave_first_1,,100,1,,,,,,1,5,highest,0,,0,0,0
+401,ww_specialwave_first_3,,100,1,,,,,,1,5,highest,0,,0,0,0
+402,ww_escortingelvira_1,,100,1,,,,,,1,5,highest,0,,0,0,0
+403,ww_escortingelvira_3,,100,1,,,,,,1,5,highest,0,,0,0,0
+404,ww_elvira_upgrade1_1,,100,1,,,,,,1,5,highest,0,,0,0,0
+405,ww_elvira_upgrade1_3,,100,1,,,,,,1,5,highest,0,,0,0,0
+406,ww_elvira_upgrade2_2,,100,1,,,,,,1,5,highest,0,,0,0,0
+407,ww_elvira_upgrade2_4,,100,1,,,,,,1,5,highest,0,,0,0,0
+408,ww_evirasbook_2,,100,1,,,,,,1,5,highest,0,,0,0,0
+409,ww_crogboss_defeat_2,,100,1,,,,,,1,5,highest,0,,0,0,0
+410,sally_spawn_1,,100,,,,,p1_,sally_spawn_2,0,5,highest,0,,0,0,0
+411,sally_spawn_2,,100,,,,,p3_,sally_spawn_3,0,5,highest,0,,0,0,0
+412,sally_spawn_3,,100,,,,,p4_,sally_spawn_4,0,5,highest,0,,0,0,0
+413,sally_spawn_4,,100,,,,,p2_,sally_spawn_5,0,5,highest,0,,0,0,0
+414,sally_spawn_5,,100,,,,,p1_,sally_spawn_6,0,5,highest,0,,0,0,0
+415,sally_spawn_6,,100,,,,,p2_,sally_spawn_7,0,5,highest,0,,0,0,0
+416,sally_spawn_7,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+417,andre_spawn_1,,100,,,,,p3_,andre_spawn_2,0,5,highest,0,,0,0,0
+418,andre_spawn_2,,100,,,,,p2_,andre_spawn_3,0,5,highest,0,,0,0,0
+419,andre_spawn_3,,100,,,,,p4_,andre_spawn_4,0,5,highest,0,,0,0,0
+420,andre_spawn_4,,100,,,,,p1_,andre_spawn_5,0,5,highest,0,,0,0,0
+421,andre_spawn_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+422,pdex_spawn_1,,100,,,,,p1_,pdex_spawn_2,0,5,highest,0,,0,0,0
+423,pdex_spawn_2,,100,,,,,p4_,pdex_spawn_3,0,5,highest,0,,0,0,0
+424,pdex_spawn_3,,100,,,,,p1_,pdex_spawn_4,0,5,highest,0,,0,0,0
+425,pdex_spawn_4,,100,,,,,p3_,pdex_spawn_5,0,5,highest,0,,0,0,0
+426,pdex_spawn_5,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+427,aj_spawn_1,,100,,,,,p4_,aj_spawn_2,0,5,highest,0,,0,0,0
+428,aj_spawn_2,,100,,,,,p1_,aj_spawn_3,0,5,highest,0,,0,0,0
+429,aj_spawn_3,,100,,,,,p2_,aj_spawn_4,0,5,highest,0,,0,0,0
+430,aj_spawn_4,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+431,sally_spawn_alt_1,,100,,,,,p2_,sally_spawn_alt_2,0,5,highest,0,,0,0,0
+432,sally_spawn_alt_2,,100,,,,,p3_,sally_spawn_alt_3,0,5,highest,0,,0,0,0
+433,sally_spawn_alt_3,,100,,,,,p2_,sally_spawn_alt_4,0,5,highest,0,,0,0,0
+434,sally_spawn_alt_4,,100,,,,,p1_,sally_spawn_alt_5,0,5,highest,0,,0,0,0
+435,sally_spawn_alt_5,,100,,,,,p4_,sally_spawn_alt_6,0,5,highest,0,,0,0,0
+436,sally_spawn_alt_6,,100,,,,,p2_,sally_spawn_alt_7,0,5,highest,0,,0,0,0
+437,sally_spawn_alt_7,,100,,,,,p1_,sally_spawn_alt_8,0,5,highest,0,,0,0,0
+438,sally_spawn_alt_8,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+439,andre_spawn_alt_1,,100,,,,,p3_,andre_spawn_alt_2,0,5,highest,0,,0,0,0
+440,andre_spawn_alt_2,,100,,,,,p1_,andre_spawn_alt_3,0,5,highest,0,,0,0,0
+441,andre_spawn_alt_3,,100,,,,,p2_,andre_spawn_alt_4,0,5,highest,0,,0,0,0
+442,andre_spawn_alt_4,,100,,,,,p4_,andre_spawn_alt_5,0,5,highest,0,,0,0,0
+443,andre_spawn_alt_5,,100,,,,,p3_,andre_spawn_alt_6,0,5,highest,0,,0,0,0
+444,andre_spawn_alt_6,,100,,,,,p2_,andre_spawn_alt_7,0,5,highest,0,,0,0,0
+445,andre_spawn_alt_7,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+446,pdex_spawn_alt_1,,100,,,,,p2_,pdex_spawn_alt_2,0,5,highest,0,,0,0,0
+447,pdex_spawn_alt_2,,100,,,,,p4_,pdex_spawn_alt_3,0,5,highest,0,,0,0,0
+448,pdex_spawn_alt_3,,100,,,,,p1_,pdex_spawn_alt_4,0,5,highest,0,,0,0,0
+449,pdex_spawn_alt_4,,100,,,,,p2_,pdex_spawn_alt_5,0,5,highest,0,,0,0,0
+450,pdex_spawn_alt_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+451,aj_spawn_alt_1,,100,,,,,p4_,aj_spawn_alt_2,0,5,highest,0,,0,0,0
+452,aj_spawn_alt_2,,100,,,,,p2_,aj_spawn_alt_3,0,5,highest,0,,0,0,0
+453,aj_spawn_alt_3,,100,,,,,p1_,aj_spawn_alt_4,0,5,highest,0,,0,0,0
+454,aj_spawn_alt_4,,100,,,,,p2_,aj_spawn_alt_5,0,5,highest,0,,0,0,0
+455,aj_spawn_alt_5,,100,,,,,p3_,aj_spawn_alt_6,0,5,highest,0,,0,0,0
+456,aj_spawn_alt_6,,100,,,,,p2_,aj_spawn_alt_7,0,5,highest,0,,0,0,0
+457,aj_spawn_alt_7,,100,,,,,p3_,aj_spawn_alt_8,0,5,highest,0,,0,0,0
+458,aj_spawn_alt_8,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+459,sally_power_first_1,,100,,,,,p1_,sally_power_first_2,0,5,highest,0,,0,0,0
+460,sally_power_first_2,,100,,,,,p4_,sally_power_first_3,0,5,highest,0,,0,0,0
+461,sally_power_first_3,,100,,,,,p2_,sally_power_first_4,0,5,highest,0,,0,0,0
+462,sally_power_first_4,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+463,andre_power_first_1,,100,,,,,p3_,andre_power_first_2,0,5,highest,0,,0,0,0
+464,andre_power_first_2,,100,,,,,p1_,andre_power_first_3,0,5,highest,0,,0,0,0
+465,andre_power_first_3,,100,,,,,p2_,andre_power_first_4,0,5,highest,0,,0,0,0
+466,andre_power_first_4,,100,,,,,p4_,andre_power_first_5,0,5,highest,0,,0,0,0
+467,andre_power_first_5,,100,,,,,p3_,andre_power_first_6,0,5,highest,0,,0,0,0
+468,andre_power_first_6,,100,,,,,p2_,andre_power_first_7,0,5,highest,0,,0,0,0
+469,andre_power_first_7,,100,,,,,p1_,andre_power_first_8,0,5,highest,0,,0,0,0
+470,andre_power_first_8,,100,,,,,p3_,andre_power_first_9,0,5,highest,0,,0,0,0
+471,andre_power_first_9,,100,,,,,p2_,andre_power_first_10,0,5,highest,0,,0,0,0
+472,andre_power_first_10,,100,,,,,p4_,andre_power_first_11,0,5,highest,0,,0,0,0
+473,andre_power_first_11,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+474,pdex_power_first_1,,100,,,,,p2_,pdex_power_first_2,0,5,highest,0,,0,0,0
+475,pdex_power_first_2,,100,,,,,p1_,pdex_power_first_3,0,5,highest,0,,0,0,0
+476,pdex_power_first_3,,100,,,,,p2_,pdex_power_first_4,0,5,highest,0,,0,0,0
+477,pdex_power_first_4,,100,,,,,p4_,pdex_power_first_5,0,5,highest,0,,0,0,0
+478,pdex_power_first_5,,100,,,,,p3_,pdex_power_first_6,0,5,highest,0,,0,0,0
+479,pdex_power_first_6,,100,,,,,p2_,pdex_power_first_7,0,5,highest,0,,0,0,0
+480,pdex_power_first_7,,100,,,,,p1_,pdex_power_first_8,0,5,highest,0,,0,0,0
+481,pdex_power_first_8,,100,,,,,p4_,pdex_power_first_9,0,5,highest,0,,0,0,0
+482,pdex_power_first_9,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+483,aj_power_first_1,,100,,,,,p4_,aj_power_first_2,0,5,highest,0,,0,0,0
+484,aj_power_first_2,,100,,,,,p3_,aj_power_first_3,0,5,highest,0,,0,0,0
+485,aj_power_first_3,,100,,,,,p2_,aj_power_first_4,0,5,highest,0,,0,0,0
+486,aj_power_first_4,,100,,,,,p4_,aj_power_first_5,0,5,highest,0,,0,0,0
+487,aj_power_first_5,,100,,,,,p3_,aj_power_first_6,0,5,highest,0,,0,0,0
+488,aj_power_first_6,,100,,,,,p4_,aj_power_first_7,0,5,highest,0,,0,0,0
+489,aj_power_first_7,,100,,,,,p1_,aj_power_first_8,0,5,highest,0,,0,0,0
+490,aj_power_first_8,,100,,,,,p2_,aj_power_first_9,0,5,highest,0,,0,0,0
+491,aj_power_first_9,,100,,,,,p4_,aj_power_first_10,0,5,highest,0,,0,0,0
+492,aj_power_first_10,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+493,pdex_power_final_1,,100,,,,,p2_,pdex_power_final_2,0,5,highest,0,,0,0,0
+494,pdex_power_final_2,,100,,,,,p4_,pdex_power_final_3,0,5,highest,0,,0,0,0
+495,pdex_power_final_3,,100,,,,,p1_,pdex_power_final_4,0,5,highest,0,,0,0,0
+496,pdex_power_final_4,,100,,,,,p3_,pdex_power_final_5,0,5,highest,0,,0,0,0
+497,pdex_power_final_5,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+498,aj_power_final_1,,100,,,,,p4_,aj_power_final_2,0,5,highest,0,,0,0,0
+499,aj_power_final_2,,100,,,,,p2_,aj_power_final_3,0,5,highest,0,,0,0,0
+500,aj_power_final_3,,100,,,,,p3_,aj_power_final_4,0,5,highest,0,,0,0,0
+501,aj_power_final_4,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+502,sally_power_final_1,,100,,,,,p1_,sally_power_final_2,0,5,highest,0,,0,0,0
+503,sally_power_final_2,,100,,,,,p3_,sally_power_final_3,0,5,highest,0,,0,0,0
+504,sally_power_final_3,,100,,,,,p2_,sally_power_final_4,0,5,highest,0,,0,0,0
+505,sally_power_final_4,,100,,,,,p4_,sally_power_final_5,0,5,highest,0,,0,0,0
+506,sally_power_final_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+507,andre_power_final_1,,100,,,,,p3_,andre_power_final_2,0,5,highest,0,,0,0,0
+508,andre_power_final_2,,100,,,,,p2_,andre_power_final_3,0,5,highest,0,,0,0,0
+509,andre_power_final_3,,100,,,,,p3_,andre_power_final_4,0,5,highest,0,,0,0,0
+510,andre_power_final_4,,100,,,,,p1_,andre_power_final_5,0,5,highest,0,,0,0,0
+511,andre_power_final_5,,100,,,,,p4_,andre_power_final_6,0,5,highest,0,,0,0,0
+512,andre_power_final_6,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+513,sally_pap_1,,100,,,,,p1_,sally_pap_2,0,5,highest,0,,0,0,0
+514,sally_pap_2,,100,,,,,p4_,sally_pap_3,0,5,highest,0,,0,0,0
+515,sally_pap_3,,100,,,,,p2_,sally_pap_4,0,5,highest,0,,0,0,0
+516,sally_pap_4,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+517,andre_pap_1,,100,,,,,p3_,andre_pap_2,0,5,highest,0,,0,0,0
+518,andre_pap_2,,100,,,,,p1_,andre_pap_3,0,5,highest,0,,0,0,0
+519,andre_pap_3,,100,,,,,p3_,andre_pap_4,0,5,highest,0,,0,0,0
+520,andre_pap_4,,100,,,,,p2_,andre_pap_5,0,5,highest,0,,0,0,0
+521,andre_pap_5,,100,,,,,p3_,andre_pap_6,0,5,highest,0,,0,0,0
+522,andre_pap_6,,100,,,,,p4_,andre_pap_7,0,5,highest,0,,0,0,0
+523,andre_pap_7,,100,,,,,p3_,andre_pap_8,0,5,highest,0,,0,0,0
+524,andre_pap_8,,100,,,,,p1_,andre_pap_9,0,5,highest,0,,0,0,0
+525,andre_pap_9,,100,,,,,p2_,andre_pap_10,0,5,highest,0,,0,0,0
+526,andre_pap_10,,100,,,,,p4_,andre_pap_11,0,5,highest,0,,0,0,0
+527,andre_pap_11,,100,,,,,p3_,andre_pap_12,0,5,highest,0,,0,0,0
+528,andre_pap_12,,100,,,,,p4_,andre_pap_13,0,5,highest,0,,0,0,0
+529,andre_pap_13,,100,,,,,p1_,andre_pap_14,0,5,highest,0,,0,0,0
+530,andre_pap_14,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+531,pdex_pap_1,,100,,,,,p2_,pdex_pap_2,0,5,highest,0,,0,0,0
+532,pdex_pap_2,,100,,,,,p4_,pdex_pap_3,0,5,highest,0,,0,0,0
+533,pdex_pap_3,,100,,,,,p2_,pdex_pap_4,0,5,highest,0,,0,0,0
+534,pdex_pap_4,,100,,,,,p1_,pdex_pap_5,0,5,highest,0,,0,0,0
+535,pdex_pap_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+536,aj_pap_1,,100,,,,,p4_,aj_pap_2,0,5,highest,0,,0,0,0
+537,aj_pap_2,,100,,,,,p1_,aj_pap_3,0,5,highest,0,,0,0,0
+538,aj_pap_3,,100,,,,,p3_,aj_pap_4,0,5,highest,0,,0,0,0
+539,aj_pap_4,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+540,sally_end_round_10_16_1,,100,,,,,p1_,sally_end_round_10_16_2,0,5,highest,0,,0,0,0
+541,sally_end_round_10_16_2,,100,,,,,p4_,sally_end_round_10_16_3,0,5,highest,0,,0,0,0
+542,sally_end_round_10_16_3,,100,,,,,p3_,sally_end_round_10_16_4,0,5,highest,0,,0,0,0
+543,sally_end_round_10_16_4,,100,,,,,p2_,sally_end_round_10_16_5,0,5,highest,0,,0,0,0
+544,sally_end_round_10_16_5,,100,,,,,p1_,sally_end_round_10_16_6,0,5,highest,0,,0,0,0
+545,sally_end_round_10_16_6,,100,,,,,p4_,sally_end_round_10_16_7,0,5,highest,0,,0,0,0
+546,sally_end_round_10_16_7,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+547,andre_end_round_10_16_1,,100,,,,,p3_,andre_end_round_10_16_2,0,5,highest,0,,0,0,0
+548,andre_end_round_10_16_2,,100,,,,,p1_,andre_end_round_10_16_3,0,5,highest,0,,0,0,0
+549,andre_end_round_10_16_3,,100,,,,,p4_,andre_end_round_10_16_4,0,5,highest,0,,0,0,0
+550,andre_end_round_10_16_4,,100,,,,,p3_,andre_end_round_10_16_5,0,5,highest,0,,0,0,0
+551,andre_end_round_10_16_5,,100,,,,,p2_,andre_end_round_10_16_6,0,5,highest,0,,0,0,0
+552,andre_end_round_10_16_6,,100,,,,,p3_,andre_end_round_10_16_7,0,5,highest,0,,0,0,0
+553,andre_end_round_10_16_7,,100,,,,,p4_,andre_end_round_10_16_8,0,5,highest,0,,0,0,0
+554,andre_end_round_10_16_8,,100,,,,,p2_,andre_end_round_10_16_9,0,5,highest,0,,0,0,0
+555,andre_end_round_10_16_9,,100,,,,,p3_,andre_end_round_10_16_10,0,5,highest,0,,0,0,0
+556,andre_end_round_10_16_10,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+557,pdex_end_round_10_16_1,,100,,,,,p2_,pdex_end_round_10_16_2,0,5,highest,0,,0,0,0
+558,pdex_end_round_10_16_2,,100,,,,,p4_,pdex_end_round_10_16_3,0,5,highest,0,,0,0,0
+559,pdex_end_round_10_16_3,,100,,,,,p1_,pdex_end_round_10_16_4,0,5,highest,0,,0,0,0
+560,pdex_end_round_10_16_4,,100,,,,,p3_,pdex_end_round_10_16_5,0,5,highest,0,,0,0,0
+561,pdex_end_round_10_16_5,,100,,,,,p2_,pdex_end_round_10_16_6,0,5,highest,0,,0,0,0
+562,pdex_end_round_10_16_6,,100,,,,,p4_,pdex_end_round_10_16_7,0,5,highest,0,,0,0,0
+563,pdex_end_round_10_16_7,,100,,,,,p3_,pdex_end_round_10_16_8,0,5,highest,0,,0,0,0
+564,pdex_end_round_10_16_8,,100,,,,,p2_,pdex_end_round_10_16_9,0,5,highest,0,,0,0,0
+565,pdex_end_round_10_16_9,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+566,aj_end_round_10_16_1,,100,,,,,p4_,aj_end_round_10_16_2,0,5,highest,0,,0,0,0
+567,aj_end_round_10_16_2,,100,,,,,p2_,aj_end_round_10_16_3,0,5,highest,0,,0,0,0
+568,aj_end_round_10_16_3,,100,,,,,p4_,aj_end_round_10_16_4,0,5,highest,0,,0,0,0
+569,aj_end_round_10_16_4,,100,,,,,p2_,aj_end_round_10_16_5,0,5,highest,0,,0,0,0
+570,aj_end_round_10_16_5,,100,,,,,p1_,aj_end_round_10_16_6,0,5,highest,0,,0,0,0
+571,aj_end_round_10_16_6,,100,,,,,p2_,aj_end_round_10_16_7,0,5,highest,0,,0,0,0
+572,aj_end_round_10_16_7,,100,,,,,p4_,aj_end_round_10_16_8,0,5,highest,0,,0,0,0
+573,aj_end_round_10_16_8,,100,,,,,p3_,aj_end_round_10_16_9,0,5,highest,0,,0,0,0
+574,aj_end_round_10_16_9,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+575,sally_boss_first_1,,100,,,,,p1_,sally_boss_first_2,0,5,highest,0,,0,0,0
+576,sally_boss_first_2,,100,,,,,p2_,sally_boss_first_3,0,5,highest,0,,0,0,0
+577,sally_boss_first_3,,100,,,,,p3_,sally_boss_first_4,0,5,highest,0,,0,0,0
+578,sally_boss_first_4,,100,,,,,p1_,sally_boss_first_5,0,5,highest,0,,0,0,0
+579,sally_boss_first_5,,100,,,,,p4_,sally_boss_first_6,0,5,highest,0,,0,0,0
+580,sally_boss_first_6,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+581,andre_boss_first_1,,100,,,,,p3_,andre_boss_first_2,0,5,highest,0,,0,0,0
+582,andre_boss_first_2,,100,,,,,p1_,andre_boss_first_3,0,5,highest,0,,0,0,0
+583,andre_boss_first_3,,100,,,,,p4_,andre_boss_first_4,0,5,highest,0,,0,0,0
+584,andre_boss_first_4,,100,,,,,p2_,andre_boss_first_5,0,5,highest,0,,0,0,0
+585,andre_boss_first_5,,100,,,,,p4_,andre_boss_first_6,0,5,highest,0,,0,0,0
+586,andre_boss_first_6,,100,,,,,p2_,andre_boss_first_7,0,5,highest,0,,0,0,0
+587,andre_boss_first_7,,100,,,,,p3_,andre_boss_first_8,0,5,highest,0,,0,0,0
+588,andre_boss_first_8,,100,,,,,p1_,andre_boss_first_9,0,5,highest,0,,0,0,0
+589,andre_boss_first_9,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+590,pdex_boss_first_1,,100,,,,,p2_,pdex_boss_first_2,0,5,highest,0,,0,0,0
+591,pdex_boss_first_2,,100,,,,,p1_,pdex_boss_first_3,0,5,highest,0,,0,0,0
+592,pdex_boss_first_3,,100,,,,,p2_,pdex_boss_first_4,0,5,highest,0,,0,0,0
+593,pdex_boss_first_4,,100,,,,,p3_,pdex_boss_first_5,0,5,highest,0,,0,0,0
+594,pdex_boss_first_5,,100,,,,,p4_,pdex_boss_first_6,0,5,highest,0,,0,0,0
+595,pdex_boss_first_6,,100,,,,,p2_,pdex_boss_first_7,0,5,highest,0,,0,0,0
+596,pdex_boss_first_7,,100,,,,,p1_,pdex_boss_first_8,0,5,highest,0,,0,0,0
+597,pdex_boss_first_8,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+598,aj_boss_first_1,,100,,,,,p4_,aj_boss_first_2,0,5,highest,0,,0,0,0
+599,aj_boss_first_2,,100,,,,,p1_,aj_boss_first_3,0,5,highest,0,,0,0,0
+600,aj_boss_first_3,,100,,,,,p2_,aj_boss_first_4,0,5,highest,0,,0,0,0
+601,aj_boss_first_4,,100,,,,,p3_,aj_boss_first_5,0,5,highest,0,,0,0,0
+602,aj_boss_first_5,,100,,,,,p1_,aj_boss_first_6,0,5,highest,0,,0,0,0
+603,aj_boss_first_6,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+604,sally_boss_final_1,,100,,,,,p1_,sally_boss_final_2,0,5,highest,0,,0,0,0
+605,sally_boss_final_2,,100,,,,,p3_,sally_boss_final_3,0,5,highest,0,,0,0,0
+606,sally_boss_final_3,,100,,,,,p2_,sally_boss_final_4,0,5,highest,0,,0,0,0
+607,sally_boss_final_4,,100,,,,,p4_,sally_boss_final_5,0,5,highest,0,,0,0,0
+608,sally_boss_final_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+609,andre_boss_final_1,,100,,,,,p3_,andre_boss_final_2,0,5,highest,0,,0,0,0
+610,andre_boss_final_2,,100,,,,,p2_,andre_boss_final_3,0,5,highest,0,,0,0,0
+611,andre_boss_final_3,,100,,,,,p1_,andre_boss_final_4,0,5,highest,0,,0,0,0
+612,andre_boss_final_4,,100,,,,,p4_,andre_boss_final_5,0,5,highest,0,,0,0,0
+613,andre_boss_final_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+614,pdex_boss_final_1,,100,,,,,p2_,pdex_boss_final_2,0,5,highest,0,,0,0,0
+615,pdex_boss_final_2,,100,,,,,p4_,pdex_boss_final_3,0,5,highest,0,,0,0,0
+616,pdex_boss_final_3,,100,,,,,p3_,pdex_boss_final_4,0,5,highest,0,,0,0,0
+617,pdex_boss_final_4,,100,,,,,p1_,pdex_boss_final_5,0,5,highest,0,,0,0,0
+618,pdex_boss_final_5,,100,,,,,p2_,pdex_boss_final_6,0,5,highest,0,,0,0,0
+619,pdex_boss_final_6,,100,,,,,p4_,pdex_boss_final_7,0,5,highest,0,,0,0,0
+620,pdex_boss_final_7,,100,,,,,p1_,pdex_boss_final_8,0,5,highest,0,,0,0,0
+621,pdex_boss_final_8,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+622,aj_boss_final_1,,100,,,,,p4_,aj_boss_final_2,0,5,highest,0,,0,0,0
+623,aj_boss_final_2,,100,,,,,p3_,aj_boss_final_3,0,5,highest,0,,0,0,0
+624,aj_boss_final_3,,100,,,,,p1_,aj_boss_final_4,0,5,highest,0,,0,0,0
+625,aj_boss_final_4,,100,,,,,p2_,aj_boss_final_5,0,5,highest,0,,0,0,0
+626,aj_boss_final_5,,100,,,,,p3_,aj_boss_final_6,0,5,highest,0,,0,0,0
+627,aj_boss_final_6,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+628,sally_soul_key_1,,100,,,,,p1_,sally_soul_key_2,0,5,highest,0,,0,0,0
+629,sally_soul_key_2,,100,,,,,p3_,sally_soul_key_3,0,5,highest,0,,0,0,0
+630,sally_soul_key_3,,100,,,,,p4_,sally_soul_key_4,0,5,highest,0,,0,0,0
+631,sally_soul_key_4,,100,,,,,p2_,sally_soul_key_5,0,5,highest,0,,0,0,0
+632,sally_soul_key_5,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+633,sally_life_ray_1,,100,,,,,p1_,sally_life_ray_2,0,5,highest,0,,0,0,0
+634,sally_life_ray_2,,100,,,,,p2_,sally_life_ray_3,0,5,highest,0,,0,0,0
+635,sally_life_ray_3,,100,,,,,p1_,sally_life_ray_4,0,5,highest,0,,0,0,0
+636,sally_life_ray_4,,100,,,,,p2_,sally_life_ray_5,0,5,highest,0,,0,0,0
+637,sally_life_ray_5,,100,,,,,p4_,sally_life_ray_6,0,5,highest,0,,0,0,0
+638,sally_life_ray_6,,100,,,,,p3_,sally_life_ray_7,0,5,highest,0,,0,0,0
+639,sally_life_ray_7,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+640,andre_life_ray_1,,100,,,,,p3_,andre_life_ray_2,0,5,highest,0,,0,0,0
+641,andre_life_ray_2,,100,,,,,p2_,andre_life_ray_3,0,5,highest,0,,0,0,0
+642,andre_life_ray_3,,100,,,,,p3_,andre_life_ray_4,0,5,highest,0,,0,0,0
+643,andre_life_ray_4,,100,,,,,p2_,andre_life_ray_5,0,5,highest,0,,0,0,0
+644,andre_life_ray_5,,100,,,,,p4_,andre_life_ray_6,0,5,highest,0,,0,0,0
+645,andre_life_ray_6,,100,,,,,p1_,andre_life_ray_7,0,5,highest,0,,0,0,0
+646,andre_life_ray_7,,100,,,,,p4_,andre_life_ray_8,0,5,highest,0,,0,0,0
+647,andre_life_ray_8,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+648,pdex_life_ray_1,,100,,,,,p2_,pdex_life_ray_2,0,5,highest,0,,0,0,0
+649,pdex_life_ray_2,,100,,,,,p4_,pdex_life_ray_3,0,5,highest,0,,0,0,0
+650,pdex_life_ray_3,,100,,,,,p1_,pdex_life_ray_4,0,5,highest,0,,0,0,0
+651,pdex_life_ray_4,,100,,,,,p2_,pdex_life_ray_5,0,5,highest,0,,0,0,0
+652,pdex_life_ray_5,,100,,,,,p3_,pdex_life_ray_6,0,5,highest,0,,0,0,0
+653,pdex_life_ray_6,,100,,,,,p2_,pdex_life_ray_7,0,5,highest,0,,0,0,0
+654,pdex_life_ray_7,,100,,,,,p4_,pdex_life_ray_8,0,5,highest,0,,0,0,0
+655,pdex_life_ray_8,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+656,aj_life_ray_1,,100,,,,,p4_,aj_life_ray_2,0,5,highest,0,,0,0,0
+657,aj_life_ray_2,,100,,,,,p2_,aj_life_ray_3,0,5,highest,0,,0,0,0
+658,aj_life_ray_3,,100,,,,,p4_,aj_life_ray_4,0,5,highest,0,,0,0,0
+659,aj_life_ray_4,,100,,,,,p2_,aj_life_ray_5,0,5,highest,0,,0,0,0
+660,aj_life_ray_5,,100,,,,,p1_,aj_life_ray_6,0,5,highest,0,,0,0,0
+661,aj_life_ray_6,,100,,,,,p4_,aj_life_ray_7,0,5,highest,0,,0,0,0
+662,aj_life_ray_7,,100,,,,,p2_,aj_life_ray_8,0,5,highest,0,,0,0,0
+663,aj_life_ray_8,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+664,sally_death_ray_1,,100,,,,,p1_,sally_death_ray_2,0,5,highest,0,,0,0,0
+665,sally_death_ray_2,,100,,,,,p2_,sally_death_ray_3,0,5,highest,0,,0,0,0
+666,sally_death_ray_3,,100,,,,,p3_,sally_death_ray_4,0,5,highest,0,,0,0,0
+667,sally_death_ray_4,,100,,,,,p2_,sally_death_ray_5,0,5,highest,0,,0,0,0
+668,sally_death_ray_5,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+669,andre_death_ray_1,,100,,,,,p3_,andre_death_ray_2,0,5,highest,0,,0,0,0
+670,andre_death_ray_2,,100,,,,,p4_,andre_death_ray_3,0,5,highest,0,,0,0,0
+671,andre_death_ray_3,,100,,,,,p1_,andre_death_ray_4,0,5,highest,0,,0,0,0
+672,andre_death_ray_4,,100,,,,,p3_,andre_death_ray_5,0,5,highest,0,,0,0,0
+673,andre_death_ray_5,,100,,,,,p2_,andre_death_ray_6,0,5,highest,0,,0,0,0
+674,andre_death_ray_6,,100,,,,,p1_,andre_death_ray_7,0,5,highest,0,,0,0,0
+675,andre_death_ray_7,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+676,pdex_death_ray_1,,100,,,,,p2_,pdex_death_ray_2,0,5,highest,0,,0,0,0
+677,pdex_death_ray_2,,100,,,,,p4_,pdex_death_ray_3,0,5,highest,0,,0,0,0
+678,pdex_death_ray_3,,100,,,,,p2_,pdex_death_ray_4,0,5,highest,0,,0,0,0
+679,pdex_death_ray_4,,100,,,,,p3_,pdex_death_ray_5,0,5,highest,0,,0,0,0
+680,pdex_death_ray_5,,100,,,,,p1_,pdex_death_ray_6,0,5,highest,0,,0,0,0
+681,pdex_death_ray_6,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+682,aj_death_ray_1,,100,,,,,p4_,aj_death_ray_2,0,5,highest,0,,0,0,0
+683,aj_death_ray_2,,100,,,,,p1_,aj_death_ray_3,0,5,highest,0,,0,0,0
+684,aj_death_ray_3,,100,,,,,p4_,aj_death_ray_4,0,5,highest,0,,0,0,0
+685,aj_death_ray_4,,100,,,,,p2_,aj_death_ray_5,0,5,highest,0,,0,0,0
+686,aj_death_ray_5,,100,,,,,p4_,aj_death_ray_6,0,5,highest,0,,0,0,0
+687,aj_death_ray_6,,100,,,,,p2_,aj_death_ray_7,0,5,highest,0,,0,0,0
+688,aj_death_ray_7,,100,,,,,p4_,aj_death_ray_8,0,5,highest,0,,0,0,0
+689,aj_death_ray_8,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+690,sally_safe_unlock_1,,100,,,,,p1_,sally_safe_unlock_2,0,5,highest,0,,0,0,0
+691,sally_safe_unlock_2,,100,,,,,p2_,sally_safe_unlock_3,0,5,highest,0,,0,0,0
+692,sally_safe_unlock_3,,100,,,,,p1_,sally_safe_unlock_4,0,5,highest,0,,0,0,0
+693,sally_safe_unlock_4,,100,,,,,p3_,sally_safe_unlock_5,0,5,highest,0,,0,0,0
+694,sally_safe_unlock_5,,100,,,,,p4_,sally_safe_unlock_6,0,5,highest,0,,0,0,0
+695,sally_safe_unlock_6,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+696,andre_safe_unlock_1,,100,,,,,p3_,andre_safe_unlock_2,0,5,highest,0,,0,0,0
+697,andre_safe_unlock_2,,100,,,,,p4_,andre_safe_unlock_3,0,5,highest,0,,0,0,0
+698,andre_safe_unlock_3,,100,,,,,p3_,andre_safe_unlock_4,0,5,highest,0,,0,0,0
+699,andre_safe_unlock_4,,100,,,,,p4_,andre_safe_unlock_5,0,5,highest,0,,0,0,0
+700,andre_safe_unlock_5,,100,,,,,p1_,andre_safe_unlock_6,0,5,highest,0,,0,0,0
+701,andre_safe_unlock_6,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+702,pdex_safe_unlock_1,,100,,,,,p2_,pdex_safe_unlock_2,0,5,highest,0,,0,0,0
+703,pdex_safe_unlock_2,,100,,,,,p1_,pdex_safe_unlock_3,0,5,highest,0,,0,0,0
+704,pdex_safe_unlock_3,,100,,,,,p3_,pdex_safe_unlock_4,0,5,highest,0,,0,0,0
+705,pdex_safe_unlock_4,,100,,,,,p4_,pdex_safe_unlock_5,0,5,highest,0,,0,0,0
+706,pdex_safe_unlock_5,,100,,,,,p3_,pdex_safe_unlock_6,0,5,highest,0,,0,0,0
+707,pdex_safe_unlock_6,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+708,aj_safe_unlock_1,,100,,,,,p4_,aj_safe_unlock_2,0,5,highest,0,,0,0,0
+709,aj_safe_unlock_2,,100,,,,,p1_,aj_safe_unlock_3,0,5,highest,0,,0,0,0
+710,aj_safe_unlock_3,,100,,,,,p4_,aj_safe_unlock_4,0,5,highest,0,,0,0,0
+711,aj_safe_unlock_4,,100,,,,,p3_,aj_safe_unlock_5,0,5,highest,0,,0,0,0
+712,aj_safe_unlock_5,,100,,,,,p4_,aj_safe_unlock_6,0,5,highest,0,,0,0,0
+713,aj_safe_unlock_6,,100,,,,,p2_,aj_safe_unlock_7,0,5,highest,0,,0,0,0
+714,aj_safe_unlock_7,,100,,,,,p4_,aj_safe_unlock_8,0,5,highest,0,,0,0,0
+715,aj_safe_unlock_8,,100,,,,,p2_,aj_safe_unlock_9,0,5,highest,0,,0,0,0
+716,aj_safe_unlock_9,,100,,,,,p4_,aj_safe_unlock_10,0,5,highest,0,,0,0,0
+717,aj_safe_unlock_10,,100,,,,,p1_,aj_safe_unlock_11,0,5,highest,0,,0,0,0
+718,aj_safe_unlock_11,,100,,,,,p4_,aj_safe_unlock_12,0,5,highest,0,,0,0,0
+719,aj_safe_unlock_12,,100,,,,,p2_,aj_safe_unlock_13,0,5,highest,0,,0,0,0
+720,aj_safe_unlock_13,,100,,,,,p3_,aj_safe_unlock_14,0,5,highest,0,,0,0,0
+721,aj_safe_unlock_14,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+722,sally_escort_bomb_1,,100,,,,,p1_,sally_escort_bomb_2,0,5,highest,0,,0,0,0
+723,sally_escort_bomb_2,,100,,,,,p2_,sally_escort_bomb_3,0,5,highest,0,,0,0,0
+724,sally_escort_bomb_3,,100,,,,,p3_,sally_escort_bomb_4,0,5,highest,0,,0,0,0
+725,sally_escort_bomb_4,,100,,,,,p2_,sally_escort_bomb_5,0,5,highest,0,,0,0,0
+726,sally_escort_bomb_5,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+727,andre_escort_bomb_1,,100,,,,,p3_,andre_escort_bomb_2,0,5,highest,0,,0,0,0
+728,andre_escort_bomb_2,,100,,,,,p2_,andre_escort_bomb_3,0,5,highest,0,,0,0,0
+729,andre_escort_bomb_3,,100,,,,,p4_,andre_escort_bomb_4,0,5,highest,0,,0,0,0
+730,andre_escort_bomb_4,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+731,pdex_escort_bomb_1,,100,,,,,p2_,pdex_escort_bomb_2,0,5,highest,0,,0,0,0
+732,pdex_escort_bomb_2,,100,,,,,p1_,pdex_escort_bomb_3,0,5,highest,0,,0,0,0
+733,pdex_escort_bomb_3,,100,,,,,p3_,pdex_escort_bomb_4,0,5,highest,0,,0,0,0
+734,pdex_escort_bomb_4,,100,,,,,p2_,pdex_escort_bomb_5,0,5,highest,0,,0,0,0
+735,pdex_escort_bomb_5,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+736,aj_escort_bomb_1,,100,,,,,p4_,aj_escort_bomb_2,0,5,highest,0,,0,0,0
+737,aj_escort_bomb_2,,100,,,,,p2_,aj_escort_bomb_3,0,5,highest,0,,0,0,0
+738,aj_escort_bomb_3,,100,,,,,p1_,aj_escort_bomb_4,0,5,highest,0,,0,0,0
+739,aj_escort_bomb_4,,100,,,,,p2_,aj_escort_bomb_5,0,5,highest,0,,0,0,0
+740,aj_escort_bomb_5,,100,,,,,p3_,aj_escort_bomb_6,0,5,highest,0,,0,0,0
+741,aj_escort_bomb_6,,100,,,,,p4_,aj_escort_bomb_7,0,5,highest,0,,0,0,0
+742,aj_escort_bomb_7,,100,,,,,p3_,aj_escort_bomb_8,0,5,highest,0,,0,0,0
+743,aj_escort_bomb_8,,100,,,,,p4_,,0,5,highest,0,,0,0,0
+744,sally_bomb_devoured_1,,100,,,,,p1_,sally_bomb_devoured_2,0,5,highest,0,,0,0,0
+745,sally_bomb_devoured_2,,100,,,,,p4_,sally_bomb_devoured_3,0,5,highest,0,,0,0,0
+746,sally_bomb_devoured_3,,100,,,,,p3_,sally_bomb_devoured_4,0,5,highest,0,,0,0,0
+747,sally_bomb_devoured_4,,100,,,,,p2_,sally_bomb_devoured_5,0,5,highest,0,,0,0,0
+748,sally_bomb_devoured_5,,100,,,,,p1_,sally_bomb_devoured_6,0,5,highest,0,,0,0,0
+749,sally_bomb_devoured_6,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+750,andre_bomb_devoured_1,,100,,,,,p3_,andre_bomb_devoured_2,0,5,highest,0,,0,0,0
+751,andre_bomb_devoured_2,,100,,,,,p1_,andre_bomb_devoured_3,0,5,highest,0,,0,0,0
+752,andre_bomb_devoured_3,,100,,,,,p4_,andre_bomb_devoured_4,0,5,highest,0,,0,0,0
+753,andre_bomb_devoured_4,,100,,,,,p2_,andre_bomb_devoured_5,0,5,highest,0,,0,0,0
+754,andre_bomb_devoured_5,,100,,,,,p3_,,0,5,highest,0,,0,0,0
+755,pdex_bomb_devoured_1,,100,,,,,p2_,pdex_bomb_devoured_2,0,5,highest,0,,0,0,0
+756,pdex_bomb_devoured_2,,100,,,,,p3_,pdex_bomb_devoured_3,0,5,highest,0,,0,0,0
+757,pdex_bomb_devoured_3,,100,,,,,p4_,pdex_bomb_devoured_4,0,5,highest,0,,0,0,0
+758,pdex_bomb_devoured_4,,100,,,,,p1_,pdex_bomb_devoured_5,0,5,highest,0,,0,0,0
+759,pdex_bomb_devoured_5,,100,,,,,p2_,pdex_bomb_devoured_6,0,5,highest,0,,0,0,0
+760,pdex_bomb_devoured_6,,100,,,,,p4_,pdex_bomb_devoured_7,0,5,highest,0,,0,0,0
+761,pdex_bomb_devoured_7,,100,,,,,p3_,pdex_bomb_devoured_8,0,5,highest,0,,0,0,0
+762,pdex_bomb_devoured_8,,100,,,,,p1_,,0,5,highest,0,,0,0,0
+763,aj_bomb_devoured_1,,100,,,,,p4_,aj_bomb_devoured_2,0,5,highest,0,,0,0,0
+764,aj_bomb_devoured_2,,100,,,,,p2_,aj_bomb_devoured_3,0,5,highest,0,,0,0,0
+765,aj_bomb_devoured_3,,100,,,,,p3_,aj_bomb_devoured_4,0,5,highest,0,,0,0,0
+766,aj_bomb_devoured_4,,100,,,,,p2_,aj_bomb_devoured_5,0,5,highest,0,,0,0,0
+767,aj_bomb_devoured_5,,100,,,,,p1_,aj_bomb_devoured_6,0,5,highest,0,,0,0,0
+768,aj_bomb_devoured_6,,100,,,,,p4_,aj_bomb_devoured_7,0,5,highest,0,,0,0,0
+769,aj_bomb_devoured_7,,100,,,,,p3_,aj_bomb_devoured_8,0,5,highest,0,,0,0,0
+770,aj_bomb_devoured_8,,100,,,,,p2_,aj_bomb_devoured_9,0,5,highest,0,,0,0,0
+771,aj_bomb_devoured_9,,100,,,,,p1_,aj_bomb_devoured_10,0,5,highest,0,,0,0,0
+772,aj_bomb_devoured_10,,100,,,,,p2_,,0,5,highest,0,,0,0,0
+773,weapon_pap_ww1_1,,100,1,,,,,,0,5,highest,0,,0,0,0
+774,weapon_pap_ww1_2,,100,1,,,,,,0,5,highest,0,,0,0,0
+775,pain,60,100,,,,,,,1,2,low,0,,0,0,0
+776,perk,300,50,,,,,,,1,5,low,0,,0,0,0
+777,defeat_radboss,200,100,1,,,,,,1,5,highest,0,,0,0,0
+778,fasttravel_exit,200,50,,,,,,,1,5,low,0,All Players,0,0,0

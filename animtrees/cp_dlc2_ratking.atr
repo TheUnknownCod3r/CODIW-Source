@@ -1,0 +1,133 @@
+
+
+// ----------------------------------
+// TEMPORARY ANIMS COPIED FROM VARIOUS 
+// CP_ZMB ZOMBIE.ATR 
+// ----------------------------------
+
+
+
+// Rat King
+IW7_cp_king_idle_01
+IW7_cp_king_idle_02
+IW7_cp_king_idle_03
+IW7_cp_king_idle_04
+IW7_cp_king_raise_01
+IW7_cp_king_lower_01
+//
+IW7_cp_king_shield_block_in
+IW7_cp_king_shield_block_loop
+IW7_cp_king_shield_block_out
+IW7_cp_king_shield_throw_01
+IW7_cp_king_shield_throw_02
+IW7_cp_king_summon_01
+IW7_cp_king_summon_02
+IW7_cp_king_summon_03
+IW7_cp_king_stand_melee_01
+IW7_cp_king_stand_melee_02
+IW7_cp_king_stand_melee_03
+IW7_cp_king_stand_stomp_01
+IW7_cp_king_stand_blast_01
+IW7_cp_king_stand_rat_bomb_01
+//
+IW7_cp_king_stand_turn_4
+IW7_cp_king_stand_turn_6
+IW7_cp_king_shamble_forward_01
+IW7_cp_king_walk_forward_01
+IW7_cp_king_run_forward_01
+IW7_cp_king_sprint_forward_01
+//
+IW7_cp_king_shamble_start
+IW7_cp_king_shamble_stop
+IW7_cp_king_walk_start
+IW7_cp_king_walk_stop
+IW7_cp_king_run_start
+IW7_cp_king_run_stop
+IW7_cp_king_sprint_start
+IW7_cp_king_sprint_stop
+//
+IW7_cp_king_spawn
+IW7_cp_king_death
+IW7_cp_king_shield_disable
+IW7_cp_king_shield_retrieve
+IW7_cp_king_staff_disable
+IW7_cp_king_staff_retrieve
+
+stand_aim : additive
+{
+	IW7_cp_king_shield_aim_1
+	IW7_cp_king_shield_aim_2
+	IW7_cp_king_shield_aim_3
+	IW7_cp_king_shield_aim_4
+	IW7_cp_king_shield_aim_6
+	IW7_cp_king_shield_aim_7
+	IW7_cp_king_shield_aim_8
+	IW7_cp_king_shield_aim_9
+}	
+
+
+//no staff anims
+IW7_cp_king_idle_nostaff_01
+IW7_cp_king_idle_nostaff_02
+IW7_cp_king_idle_nostaff_03
+IW7_cp_king_idle_nostaff_04
+IW7_cp_king_shield_block_in_nostaff
+IW7_cp_king_shield_block_loop_nostaff
+IW7_cp_king_shield_block_out_nostaff
+IW7_cp_king_shield_throw_nostaff_01
+IW7_cp_king_shield_throw_nostaff_02
+IW7_cp_king_raise_nostaff_01
+IW7_cp_king_lower_nostaff_01
+IW7_cp_king_stand_melee_nostaff_01
+IW7_cp_king_stand_melee_nostaff_02
+IW7_cp_king_summon_nostaff_01
+IW7_cp_king_summon_nostaff_02
+
+//turn anims
+IW7_cp_king_walk_turn_1
+IW7_cp_king_walk_turn_2
+IW7_cp_king_walk_turn_3
+IW7_cp_king_walk_turn_4
+IW7_cp_king_walk_turn_6
+IW7_cp_king_walk_turn_7
+IW7_cp_king_walk_turn_9
+IW7_cp_king_run_turn_1
+IW7_cp_king_run_turn_2
+IW7_cp_king_run_turn_3
+IW7_cp_king_run_turn_4
+IW7_cp_king_run_turn_6
+IW7_cp_king_run_turn_7
+IW7_cp_king_run_turn_9
+
+//idle to move anims
+IW7_cp_king_walk_exit_1
+IW7_cp_king_walk_exit_2
+IW7_cp_king_walk_exit_3
+IW7_cp_king_walk_exit_4
+IW7_cp_king_walk_exit_6
+IW7_cp_king_walk_exit_7
+IW7_cp_king_walk_exit_8
+IW7_cp_king_walk_exit_9
+IW7_cp_king_run_exit_1
+IW7_cp_king_run_exit_2
+IW7_cp_king_run_exit_3
+IW7_cp_king_run_exit_4
+IW7_cp_king_run_exit_6
+IW7_cp_king_run_exit_7
+IW7_cp_king_run_exit_8
+IW7_cp_king_run_exit_9
+
+
+
+IW7_cp_slasher_run_forward_01_pain_head
+IW7_cp_slasher_run_forward_01_pain_left
+IW7_cp_slasher_run_forward_01_pain_right
+
+IW7_cp_slasher_stand_aim_idle_pain_01_gut
+IW7_cp_slasher_stand_aim_idle_pain_01_head
+IW7_cp_slasher_stand_aim_idle_pain_01_left
+IW7_cp_slasher_stand_aim_idle_pain_01_right
+
+IW7_cp_slasher_teleport_start
+
+

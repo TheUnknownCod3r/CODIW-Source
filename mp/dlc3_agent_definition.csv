@@ -1,0 +1,6 @@
+1,# Zombie,generic_zombie,zombie,zombie,zom_civ_urban_male_torso_slice,zombie_dlc3_animclass,200,50,60,zombie_dlc3,zombie_dlc3,15,65
+2,# crab_brute,crab_brute,zombie,zombie,park_alien_gray,crab_brute_animclass,5000,50,60,crab_brute,crab_brute,15,65
+3,# crab mini,crab_mini,zombie,zombie,zmb_sasquatch_fullbody,crab_mini_animclass,200,50,60,crab_mini,crab_mini,15,65
+4,# crab boss,crab_boss,zombie,zombie,fullbody_zmb_superslasher,crab_boss_animclass,999999,50,60,crab_boss,crab_boss,40,240
+5,# elvira,elvira,elvira,c6,body_zmb_hero_dj_agent,elvira_animclass,99999,50,60,elvira,elvira,15,65
+6,# Zombie ghost,zombie_ghost,zombie_ghost,zombie,zom_civ_urban_male_torso_slice,zombie_ghost_dlc2_animclass,5000,50,60,zombie_ghost,zombie_ghost,15,50

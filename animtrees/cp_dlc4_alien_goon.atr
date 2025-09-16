@@ -1,0 +1,969 @@
+body
+{
+	// Idles
+	alien_drone_idle_02
+	alien_drone_idle_03
+	alien_drone_idle_04
+	alien_drone_idle_pole
+	alien_drone_idle_generic
+	
+	// Postures
+	alien_drone_posture_01
+	alien_drone_posture_02
+	alien_drone_posture_03
+	alien_drone_posture_04
+	
+	// Spawn
+	alien_drone_spawn_underground
+	alien_drone_spawn_01
+
+	// Walks
+	alien_drone_walk_01
+	alien_drone_walk_02
+	alien_drone_walk_06
+	alien_drone_walk_start
+	alien_drone_walk_to_stop
+
+	//runs
+	alien_drone_run_01
+	alien_drone_run_02
+	alien_drone_run_02_aggressive
+	alien_drone_run_03
+	alien_drone_run_04
+	alien_drone_run_05
+	
+	alien_drone_jog_05
+	
+	// Starts
+	alien_drone_run_start_180_r
+	alien_drone_run_start_135_r
+	alien_drone_run_start_r
+	alien_drone_run_start_45_r
+	alien_drone_run_start
+	alien_drone_run_start_45_l
+	alien_drone_run_start_l
+	alien_drone_run_start_135_l
+	alien_drone_run_start_180_l
+
+	// Stops
+	alien_drone_run_to_stop
+	alien_drone_run_to_stop_45_l
+	alien_drone_run_to_stop_l
+	alien_drone_run_to_stop_135_l
+	alien_drone_run_to_stop_180_l
+	alien_drone_run_to_stop_45_r
+	alien_drone_run_to_stop_r
+	alien_drone_run_to_stop_135_r
+	alien_drone_run_to_stop_180_r
+	
+	
+	// Run to Leap	
+	alien_drone_run_to_leap_level_1
+	alien_drone_run_to_leap_level_2
+	alien_drone_run_to_leap_level_3
+	alien_drone_run_to_leap_level_4
+	alien_drone_run_to_leap_level_6
+	alien_drone_run_to_leap_level_7
+	alien_drone_run_to_leap_level_8
+	alien_drone_run_to_leap_level_9
+	
+	// Leap
+	alien_drone_leap_exit_up_A
+	alien_drone_leap_exit_up_B
+	alien_drone_leap_exit_up_C
+	
+	alien_drone_leap_exit_level_A
+	alien_drone_leap_exit_level_B
+	alien_drone_leap_exit_level_C
+	
+	alien_drone_leap_exit_down_A
+	alien_drone_leap_exit_down_B
+	alien_drone_leap_exit_down_C
+	
+	alien_drone_leap_air_up_to_A
+	alien_drone_leap_air_up_to_B
+	alien_drone_leap_air_up_to_C
+	alien_drone_leap_air_level_to_A
+	alien_drone_leap_air_level_to_B
+	alien_drone_leap_air_level_to_C
+	alien_drone_leap_air_down_to_A
+	alien_drone_leap_air_down_to_B
+	alien_drone_leap_air_down_to_C
+	
+	alien_drone_leap_arrival_A1
+	alien_drone_leap_arrival_A2
+	alien_drone_leap_arrival_A3
+	alien_drone_leap_arrival_A4
+	alien_drone_leap_arrival_A6
+	alien_drone_leap_arrival_A7
+	alien_drone_leap_arrival_A8
+	alien_drone_leap_arrival_A9
+	
+	alien_drone_leap_arrival_B1
+	alien_drone_leap_arrival_B2
+	alien_drone_leap_arrival_B3
+	alien_drone_leap_arrival_B4
+	alien_drone_leap_arrival_B6
+	alien_drone_leap_arrival_B7
+	alien_drone_leap_arrival_B8
+	alien_drone_leap_arrival_B9
+
+	alien_drone_leap_arrival_C1
+	alien_drone_leap_arrival_C2
+	alien_drone_leap_arrival_C3
+	alien_drone_leap_arrival_C4
+	alien_drone_leap_arrival_C6
+	alien_drone_leap_arrival_C7
+	alien_drone_leap_arrival_C8
+	alien_drone_leap_arrival_C9
+	
+	alien_drone_leap_sidewall_air_up_to_a
+	alien_drone_leap_tree
+	
+	alien_drone_leap_sidewall_arrival_a1
+	alien_drone_leap_sidewall_arrival_a2
+	alien_drone_leap_sidewall_arrival_a3
+	alien_drone_leap_sidewall_arrival_a4
+	alien_drone_leap_sidewall_arrival_a6
+	alien_drone_leap_sidewall_arrival_a7
+	alien_drone_leap_sidewall_arrival_a8
+	alien_drone_leap_sidewall_arrival_a9
+	
+	alien_drone_leap_sidewall_arrival_b1
+	alien_drone_leap_sidewall_arrival_b2
+	alien_drone_leap_sidewall_arrival_b3
+	alien_drone_leap_sidewall_arrival_b4
+	alien_drone_leap_sidewall_arrival_b6
+	alien_drone_leap_sidewall_arrival_b7
+	alien_drone_leap_sidewall_arrival_b8
+	alien_drone_leap_sidewall_arrival_b9
+	
+	//leap alt
+	//alien_drone_leap_tree_air
+	//alien_drone_leap_tree_arrival
+	
+	
+	alien_drone_leap_to_run_quick_level_8
+	
+	// Turns
+	alien_drone_run_turn_180_R
+	alien_drone_run_turn_135_R
+	alien_drone_run_turn_R
+	alien_drone_run_turn_45_R
+	alien_drone_run_turn_45_L
+	alien_drone_run_turn_L
+	alien_drone_run_turn_135_L
+	alien_drone_run_turn_180_L
+	
+	alien_drone_turn_180_R
+	alien_drone_turn_135_R
+	alien_drone_turn_R
+	alien_drone_turn_45_R
+	alien_drone_turn_45_L
+	alien_drone_turn_L
+	alien_drone_turn_135_L
+	alien_drone_turn_180_L
+	
+	// Dodge
+	alien_drone_dodge_R
+	alien_drone_dodge_L
+	
+	alien_drone_jog_dodge_R
+	alien_drone_jog_dodge_L
+	
+	// Idle Death and Pain
+	alien_drone_idle_death_back_forward_b
+	alien_drone_idle_death_head_forward_f	   
+	alien_drone_idle_death_Rupbody_spin_f
+	alien_drone_idle_death_upbody_backward_f
+	alien_drone_idle_death_Lupbody_side_L
+	alien_drone_idle_death_Rupbody_r
+	alien_drone_idle_death_Llowbody_l
+	
+	alien_drone_idle_death_explode_forward
+	alien_drone_idle_death_explode_backward
+	alien_drone_idle_death_explode_l
+	alien_drone_idle_death_explode_r
+    
+    alien_drone_idle_pain_chest_f
+	alien_drone_idle_pain_head_f
+	alien_drone_idle_pain_lowbody_f
+	alien_drone_idle_pain_Rupbody_r
+	alien_drone_idle_pain_lowbody_howl_f
+	
+	alien_drone_idle_pain_Lupbody_l
+	alien_drone_idle_pain_Llowbody_l
+	alien_drone_idle_pain_upbody_b
+	alien_drone_idle_pain_Rlowbody_r
+    
+	alien_drone_death_01
+	
+	alien_drone_death_melee_charge_front
+	
+	// Pushed off Pain
+	alien_drone_idle_pain_pushedoff_backward
+	alien_drone_idle_pain_pushedoff_forward
+	alien_drone_idle_pain_pushedoff_backward_v2
+	alien_drone_idle_pain_pushedoff_sideward_r
+	alien_drone_idle_pain_pushedoff_sideward_l
+	
+    // Run Death and Pain
+	alien_drone_run_stumble_upbody_f_light
+	alien_drone_run_stumble_upbody_f_medium
+	alien_drone_run_stumble_upbody_v2_f_medium
+	alien_drone_run_stumble_upbody_f_heavy
+	alien_drone_run_stumble_upbody_f_veryheavy
+	alien_drone_run_stumble_Lshoulder_f_heavy
+	alien_drone_run_stumble_Rshoulder_f_heavy
+    
+	alien_drone_run_stumble_upbody_prerun_f_light
+	alien_drone_run_stumble_upbody_prerun_f_medium
+	alien_drone_run_stumble_upbody_prerun_v2_f_medium
+	alien_drone_run_stumble_upbody_prerun_f_heavy
+	alien_drone_run_stumble_upbody_prerun_f_veryheavy
+	alien_drone_run_stumble_Lshoulder_prerun_f_heavy
+	alien_drone_run_stumble_Rshoulder_prerun_f_heavy
+
+	alien_drone_run_pain_upbody_f_light
+	alien_drone_run_pain_upbody_f_medium
+	alien_drone_run_pain_upbody_v2_f_medium
+	alien_drone_run_pain_upbody_f_heavy
+	alien_drone_run_pain_upbody_f_veryheavy
+	alien_drone_run_pain_Lshoulder_f_heavy
+	alien_drone_run_pain_Rshoulder_f_heavy
+	alien_drone_run_pain_Lupbody_f_light
+	alien_drone_run_pain_Rupbody_f_light
+	alien_drone_run_pain_lowbody_f_light
+
+	alien_drone_run_pain_Lupbody_l_light
+	alien_drone_run_pain_Lupbody_l_heavy
+	alien_drone_run_pain_Llowbody_l_light
+	alien_drone_run_pain_Llowbody_l_heavy
+	
+	alien_drone_run_pain_Rupbody_r_light
+	alien_drone_run_pain_Rupbody_r_heavy
+	alien_drone_run_pain_Rlowbody_r_light
+	
+	alien_drone_run_pain_upbody_b_light
+	alien_drone_run_pain_lowbody_b_light
+	
+	alien_drone_run_death_upbody_forward_f 
+	alien_drone_run_death_upbody_backward_f
+	alien_drone_run_death_upbody_spin_f
+	
+	alien_drone_run_death_Rupbody_r
+	
+	alien_drone_run_death_Lupbody_l
+	alien_drone_run_death_Llowbody_l
+	
+	// Leap Death and Pain
+	alien_drone_leap_air_hit_upbody_f
+	alien_drone_leap_air_hit_Lupbody_f
+	alien_drone_leap_air_hit_Lshoulder_f
+	alien_drone_leap_air_hit_Rshoulder_f
+	alien_drone_leap_air_hit_chest_f
+    
+	alien_drone_leap_air_hit_Lshoulder_idle_f
+	alien_drone_leap_air_hit_upbody_idle_f
+	alien_drone_leap_air_hit_Rshoulder_idle_f
+	alien_drone_leap_air_hit_chest_idle_f
+    
+	alien_drone_leap_air_hit_head_f_heavy
+	alien_drone_leap_air_hit_head_idle_f_heavy
+	alien_drone_leap_air_hit_chest_f_light
+	alien_drone_leap_air_hit_chest_idle_f_light
+	alien_drone_leap_air_hit_Lupbody_f_light
+	alien_drone_leap_air_hit_Lupbody_idle_f_light
+	alien_drone_leap_air_hit_Rupbody_f_light
+	alien_drone_leap_air_hit_Rupbody_idle_f_light
+	alien_drone_leap_air_hit_lowbody_f_light
+	alien_drone_leap_air_hit_lowbody_idle_f_light
+	alien_drone_leap_air_hit_lowbody_f_heavy
+	alien_drone_leap_air_hit_lowbody_idle_f_heavy
+	alien_drone_leap_air_hit_upbody_l_light
+	alien_drone_leap_air_hit_upbody_idle_l_light
+	alien_drone_leap_air_hit_upbody_l_heavy
+	alien_drone_leap_air_hit_upbody_idle_l_heavy
+	alien_drone_leap_air_hit_lowbody_l_light
+	alien_drone_leap_air_hit_lowbody_idle_l_light
+	alien_drone_leap_air_hit_lowbody_l_heavy
+	alien_drone_leap_air_hit_lowbody_idle_l_heavy	
+	alien_drone_leap_air_hit_upbody_r_light
+	alien_drone_leap_air_hit_upbody_idle_r_light
+	alien_drone_leap_air_hit_upbody_r_heavy
+	alien_drone_leap_air_hit_upbody_idle_r_heavy
+	alien_drone_leap_air_hit_lowbody_r_light
+	alien_drone_leap_air_hit_lowbody_idle_r_light
+	alien_drone_leap_air_hit_lowbody_r_heavy
+	alien_drone_leap_air_hit_lowbody_idle_r_heavy
+	alien_drone_leap_air_hit_upbody_b_light
+	alien_drone_leap_air_hit_upbody_idle_b_light
+	alien_drone_leap_air_hit_upbody_b_heavy
+	alien_drone_leap_air_hit_upbody_idle_b_heavy
+	alien_drone_leap_air_hit_lowbody_b_light
+	alien_drone_leap_air_hit_lowbody_idle_b_light
+	alien_drone_leap_air_hit_lowbody_b_heavy
+	alien_drone_leap_air_hit_lowbody_idle_b_heavy
+	
+	alien_drone_leap_arrival_stumble_upbody_f_medium
+	alien_drone_leap_arrival_stumble_upbody_f_heavy
+	alien_drone_leap_arrival_stumble_Lshoulder_f_heavy
+	alien_drone_leap_arrival_stumble_Rshoulder_f_heavy
+	alien_drone_leap_arrival_stumble_chest_f_veryheavy
+	alien_drone_leap_arrival_stumble_head_f_heavy
+	alien_drone_leap_arrival_stumble_chest_f_light
+	alien_drone_leap_arrival_stumble_Lupbody_f_light	
+	alien_drone_leap_arrival_stumble_Rupbody_f_light
+	alien_drone_leap_arrival_stumble_lowbody_f_light	
+	alien_drone_leap_arrival_stumble_lowbody_f_heavy
+	alien_drone_leap_arrival_stumble_upbody_l_light	
+	alien_drone_leap_arrival_stumble_upbody_l_heavy
+	alien_drone_leap_arrival_stumble_lowbody_l_light
+	alien_drone_leap_arrival_stumble_lowbody_l_heavy
+	alien_drone_leap_arrival_stumble_upbody_r_light
+	alien_drone_leap_arrival_stumble_upbody_r_heavy
+	alien_drone_leap_arrival_stumble_lowbody_r_light
+	alien_drone_leap_arrival_stumble_lowbody_r_heavy
+	alien_drone_leap_arrival_stumble_upbody_b_light
+	alien_drone_leap_arrival_stumble_upbody_b_heavy
+	alien_drone_leap_arrival_stumble_lowbody_b_light
+	alien_drone_leap_arrival_stumble_lowbody_b_heavy
+	
+	alien_drone_leap_arrival_death_upbody_forward_v2_f
+	alien_drone_leap_arrival_death_upbody_forward_f
+	alien_drone_leap_arrival_death_chest_backward_f	
+	alien_drone_leap_death_chest_f
+	alien_drone_leap_death_head_f
+	alien_drone_leap_death_Lupbody_f
+	alien_drone_leap_death_Rupbody_f
+	alien_drone_leap_death_lowbody_f
+	alien_drone_leap_death_upbody_l
+	alien_drone_leap_death_lowbody_l
+	alien_drone_leap_death_upbody_r
+	alien_drone_leap_death_lowbody_r
+	alien_drone_leap_death_upbody_b
+	alien_drone_leap_death_lowbody_b		
+	
+	// Leap_Wall Death and Pain
+	alien_drone_leap_wall_air_hit_upbody_low
+	alien_drone_leap_wall_air_hit_upbody_idle_low
+	alien_drone_leap_wall_air_l_hit_upbody_low
+	alien_drone_leap_wall_air_l_hit_upbody_idle_low
+	alien_drone_leap_wall_air_r_hit_upbody_low
+	alien_drone_leap_wall_air_r_hit_upbody_idle_low
+	alien_drone_leap_wall_air_hit_upbody_hi
+	alien_drone_leap_wall_air_hit_upbody_idle_hi
+	alien_drone_leap_wall_air_l_hit_upbody_hi
+	alien_drone_leap_wall_air_l_hit_upbody_idle_hi
+	alien_drone_leap_wall_air_r_hit_upbody_hi
+	alien_drone_leap_wall_air_r_hit_upbody_idle_hi
+	
+	alien_drone_leap_wall_arrival_stumble_upbody_low
+	alien_drone_leap_wall_arrival_l_stumble_upbody_low
+	alien_drone_leap_wall_arrival_r_stumble_upbody_low
+	alien_drone_leap_wall_arrival_stumble_upbody_hi
+	alien_drone_leap_wall_arrival_l_stumble_upbody_hi
+	alien_drone_leap_wall_arrival_r_stumble_upbody_hi
+	
+
+	// Attack
+	alien_drone_attack_jump_level_Rhand
+	alien_drone_attack_jump_level_Lhand
+	alien_drone_attack_jump_level_R45hand
+	alien_drone_attack_jump_level_L45hand
+	alien_drone_attack_jump_level_LRhand
+	alien_drone_attack_jump_level_LRhand_v2
+	alien_drone_attack_ground_Rhand
+	alien_drone_attack_ground_Lhand
+	alien_drone_attack_ground_LRhand
+	alien_drone_attack_ground_LRhand_v2
+	alien_drone_melee_01
+	alien_drone_attack_spit_level
+	alien_drone_attack_ground_bite
+	alien_drone_attack_ground_bite_second
+	alien_drone_attack_ground_bite_third
+	alien_drone_attack_ground_bite_v2
+	alien_drone_attack_ground_bite_v2_second
+	alien_drone_attack_ground_bite_v2_third
+	alien_drone_attack_ground_swipe
+	alien_drone_attack_ground_swipe_second
+	alien_drone_attack_ground_swipe_third
+	
+	// Attack_Sentry
+	alien_drone_attack_sentry_side_r_loop
+	alien_drone_attack_sentry_side_r_enter
+	alien_drone_attack_sentry_side_r_exit
+	alien_drone_attack_sentry_back_loop
+	alien_drone_attack_sentry_back_enter
+	alien_drone_attack_sentry_back_exit
+	alien_drone_attack_sentry_front_loop
+	alien_drone_attack_sentry_front_enter
+	alien_drone_attack_sentry_front_exit
+	alien_drone_attack_sentry_side_l_loop
+	alien_drone_attack_sentry_side_l_enter
+	alien_drone_attack_sentry_side_l_exit
+	
+	alien_sentry_attack_sentry_side_r_loop
+	alien_sentry_attack_sentry_side_r_enter
+	alien_sentry_attack_sentry_side_r_exit
+	alien_sentry_attack_sentry_back_loop
+	alien_sentry_attack_sentry_back_enter
+	alien_sentry_attack_sentry_back_exit
+	alien_sentry_attack_sentry_front_loop
+	alien_sentry_attack_sentry_front_enter
+	alien_sentry_attack_sentry_front_exit
+	alien_sentry_attack_sentry_side_l_loop
+	alien_sentry_attack_sentry_side_l_enter
+	alien_sentry_attack_sentry_side_l_exit
+
+	// Traverse
+	alien_drone_traverse_crawl_door_ent	
+	alien_drone_traverse_crawl_backhumvee
+	alien_drone_traverse_crawl_sidehumvee
+	alien_drone_traverse_crawl_humvee
+	alien_drone_traverse_crawl_car
+	alien_drone_traverse_crawl_sidecar	
+	alien_drone_traverse_jump_sidewall_l
+	alien_drone_traverse_jump_sidewall_r
+	alien_drone_traverse_mantle_36
+	alien_drone_traverse_mantle_32
+	alien_drone_traverse_mantle_48
+	alien_drone_traverse_jump_down_100
+	alien_drone_traverse_jump_down_200
+	alien_drone_traverse_jump_down_straight
+	alien_drone_traverse_jump_up_70
+	alien_drone_traverse_jump_up_200
+	alien_drone_traverse_jump_fence_high_to_low
+	alien_drone_traverse_jump_fence_low_to_high
+	alien_drone_traverse_jump_to_crawl_car
+	alien_drone_traverse_jump_fence_88_enter_scale
+	alien_drone_traverse_jump_fence_88_exit_scale
+	alien_drone_traverse_jump_120_rail_32
+	alien_drone_traverse_jump_120_rail_36
+	alien_drone_traverse_jump_120_rail_48
+	alien_drone_traverse_jump_90_rail_32
+	alien_drone_traverse_climb_inside_corner
+	alien_drone_traverse_climb_up_end_jump_side_l
+	alien_drone_traverse_climb_up_end_jump_side_r
+	alien_drone_traverse_climb_vault_8
+	alien_drone_traverse_climb_up_enter_from_idle
+	alien_drone_traverse_climb_up_scrabble
+	alien_drone_traverse_climb_up_loop
+	alien_drone_traverse_climb_up_end_to_idle
+	alien_drone_traverse_climb_up_end_to_idle_x30
+	alien_drone_traverse_climb_down_enter_from_idle
+	alien_drone_traverse_climb_down_slide
+	alien_drone_traverse_climb_down_loop
+	alien_drone_traverse_climb_down_end_to_idle
+	alien_drone_traverse_climb_down_jump_to_idle
+	alien_drone_traverse_climb_up_ledge_56_end
+	alien_drone_traverse_climb_up_ledge_18_run
+	alien_drone_traverse_climb_up_ledge_18_idle
+	alien_drone_traverse_climb_up_rail_32_idle
+	alien_drone_traverse_climb_up_rail_32_run
+	alien_drone_traverse_climb_up_spiral_tree
+	alien_drone_traverse_climb_up_gutter_L
+	alien_drone_traverse_climb_up_gutter_R
+	alien_drone_traverse_climb_down_ledge_56_enter
+	alien_drone_traverse_corner_wall_crawl
+	alien_drone_traverse_leap_36
+	alien_drone_traverse_leap_54
+	alien_drone_traverse_light_signal_exit
+	alien_drone_traverse_light_signal_enter
+	alien_drone_traverse_climb_over_fence
+	alien_drone_traverse_climb_over_fence_88
+	alien_drone_traverse_climb_over_fence_112_a
+	alien_drone_traverse_climb_over_fence_112_b
+	alien_drone_traverse_climb_over_fence_112_c
+	alien_drone_traverse_crawl_undercar_side
+	alien_drone_traverse_crawl_to_jump_car
+	alien_drone_traverse_crawl_under_fence
+	alien_drone_traverse_crawl_under_fence_v2
+	alien_drone_traverse_step_down_56
+	alien_drone_traverse_step_up_56
+	alien_drone_traverse_step_down_56_idle
+	alien_drone_traverse_step_down_56_run
+	alien_drone_traverse_step_up_56_idle
+	alien_drone_traverse_step_up_56_run
+	alien_drone_traverse_step_crate_48
+	alien_drone_traverse_step_crate_64
+	alien_drone_traverse_roof_to_ceiling
+	alien_drone_traverse_roof_to_ground
+	alien_drone_traverse_rail_32_jump_down
+	alien_drone_traverse_rail_36_jump_down
+	alien_drone_traverse_rail_48_jump_down
+	alien_drone_traverse_rail_36_climb_down
+	alien_drone_traverse_crawl_deadtree
+	alien_drone_traverse_crawl_rail_vault_lodge
+	alien_drone_traverse_jump_rail_vault_lodge
+	alien_drone_traverse_ground_to_ceiling
+	alien_drone_traverse_ceiling_to_rooftop
+	alien_drone_traverse_light_signal
+	alien_drone_traverse_jump_sidewall_300_l
+	vehicle_bus_traverse_jump_sidewall_300_l_bus
+	alien_drone_traverse_jump_down_straight_forward_56
+	alien_drone_traverse_roof_to_ceiling_beacon
+	alien_drone_traverse_jump_down_200_beacon
+	alien_drone_traverse_jump_down_straight_forward_56_beacon
+	
+	// flare Reactions
+	alien_drone_flare_recation_01
+	alien_drone_flare_recation_01_v2
+	alien_drone_flare_recation_02
+	alien_drone_flare_recation_02_v2
+	
+	// Move Back
+	alien_drone_move_back_crawl
+	alien_drone_move_back_jump
+	alien_drone_move_back_hop
+	
+	// Move Side
+	alien_drone_move_side_r
+	alien_drone_move_side_l
+	alien_drone_move_side_r_v2
+	alien_drone_move_side_l_v2
+	
+	// Bump
+	alien_drone_run_bump_light
+	alien_drone_run_bump_medium
+	alien_drone_run_bump_heavy
+	
+	// Ref
+	alien_drone_traverse_climb_up_ref
+	alien_drone_traverse_climb_down_ref
+	
+	// Attack_drill
+	alien_drone_attack_drill_F_enter
+	alien_drone_attack_drill_F_exit
+	alien_drone_attack_drill_F_loop
+	alien_drone_attack_drill_L_enter
+	alien_drone_attack_drill_L_exit
+	alien_drone_attack_drill_L_loop
+	alien_drone_attack_drill_R_enter
+	alien_drone_attack_drill_R_exit
+	alien_drone_attack_drill_R_loop
+	
+	alien_drill_attack_drill_F_enter
+	alien_drill_attack_drill_F_exit
+	alien_drill_attack_drill_F_loop
+	alien_drill_attack_drill_L_enter
+	alien_drill_attack_drill_L_exit
+	alien_drill_attack_drill_L_loop
+	alien_drill_attack_drill_R_enter
+	alien_drill_attack_drill_R_exit
+	alien_drill_attack_drill_R_loop
+	
+	// Hive
+	alien_hive_a_idle
+	alien_hive_a_close
+	alien_hive_a_pain_idle_stage01
+	alien_hive_a_pain_idle_stage02
+	alien_hive_a_pain_idle_stage03
+	alien_hive_a_pain_stage02_to_03
+	alien_hive_a_death
+	
+	alien_hive_b_idle
+	alien_hive_b_close
+	alien_hive_b_pain_idle_stage01
+	alien_hive_b_pain_idle_stage02
+	alien_hive_b_pain_idle_stage03
+	alien_hive_b_pain_stage02_to_03
+	alien_hive_b_death
+	
+	// Queen
+	alien_queen_charge_start
+	alien_queen_charge
+	alien_queen_attack_charging
+	alien_queen_charge_to_stop
+	alien_queen_charge_bump
+	alien_queen_charge_start_v2
+	alien_queen_charge_start_v3
+	
+	alien_queen_walk
+	alien_queen_walk_start
+	alien_queen_walk_to_stop
+	alien_queen_idle
+	alien_queen_recharge
+	
+	alien_queen_attack_pounding
+	alien_queen_attack_pounding_second
+	alien_queen_attack_pounding_third
+	
+	alien_queen_move_back
+	alien_queen_shield_up
+	alien_queen_posture_01
+	alien_queen_posture_02
+	
+	alien_queen_run
+	alien_queen_run_start
+	alien_queen_run_start_l
+	alien_queen_run_start_45_l
+	alien_queen_run_start_135_l
+	alien_queen_run_start_180_l
+	alien_queen_run_start_r
+	alien_queen_run_start_45_r
+	alien_queen_run_start_135_r
+	alien_queen_run_start_180_r
+	
+	alien_queen_death_01
+	alien_queen_death_02
+	alien_queen_death_L
+	alien_queen_death_R
+	
+	// Queen Spawn
+	alien_queen_spwan_01
+	alien_queen_spwan_02
+	
+	alien_concrete_queen_spwan_01
+	
+	alien_concrete_queen_spwan_07_1
+	alien_concrete_queen_spwan_07_2
+	alien_concrete_queen_spwan_07_3
+	alien_concrete_queen_spwan_07_4
+	alien_concrete_queen_spwan_01_1
+	alien_concrete_queen_spwan_02_1
+	alien_concrete_queen_spwan_03_1
+	alien_concrete_queen_spwan_03_2
+	
+	// Goon
+	alien_goon_attack_drill_F_enter
+	alien_goon_attack_drill_F_loop
+	alien_goon_attack_drill_F_exit
+	alien_goon_attack_drill_R_enter
+	alien_goon_attack_drill_R_loop
+	alien_goon_attack_drill_R_exit
+	alien_goon_attack_drill_L_enter
+	alien_goon_attack_drill_L_loop
+	alien_goon_attack_drill_L_exit
+	
+	alien_goon_drill_attack_drill_F_enter
+	alien_goon_drill_attack_drill_F_loop
+	alien_goon_drill_attack_drill_F_exit
+	alien_goon_drill_attack_drill_R_enter
+	alien_goon_drill_attack_drill_R_loop
+	alien_goon_drill_attack_drill_R_exit
+	alien_goon_drill_attack_drill_L_enter
+	alien_goon_drill_attack_drill_L_loop
+	alien_goon_drill_attack_drill_L_exit
+	
+	alien_goon_attack_sentry_F_enter
+	alien_goon_attack_sentry_F_loop
+	alien_goon_attack_sentry_F_exit
+	alien_goon_attack_sentry_R_enter
+	alien_goon_attack_sentry_R_loop
+	alien_goon_attack_sentry_R_exit
+	alien_goon_attack_sentry_L_enter
+	alien_goon_attack_sentry_L_loop
+	alien_goon_attack_sentry_L_exit
+	
+	
+	alien_goon_sentry_attack_sentry_F_enter
+	alien_goon_sentry_attack_sentry_F_loop
+	alien_goon_sentry_attack_sentry_F_exit
+	alien_goon_sentry_attack_sentry_R_enter
+	alien_goon_sentry_attack_sentry_R_loop
+	alien_goon_sentry_attack_sentry_R_exit
+	alien_goon_sentry_attack_sentry_L_enter
+	alien_goon_sentry_attack_sentry_L_loop
+	alien_goon_sentry_attack_sentry_L_exit
+	
+	// Spitter
+	alien_spitter_idle_a
+	alien_spitter_idle_b
+	alien_spitter_idle_c
+	alien_spitter_posture_a
+	alien_spitter_posture_b
+	alien_spitter_attack_gas_level
+	alien_spitter_attack_tail_level
+	alien_spitter_attack_tail_short_level
+	alien_spitter_walk
+	alien_spitter_walk_to_stop
+	alien_spitter_start_to_walk
+	
+	// Lurker
+	alien_lurker_alert_aware_a
+	alien_lurker_alert_aware_b
+	alien_lurker_alert_posture_a
+	alien_lurker_alert_posture_b
+	alien_lurker_alert_unaware_a
+	alien_lurker_alert_unaware_b
+		
+	// Minion
+	alien_minion_walk
+	alien_minion_walk_to_stop
+	alien_minion_explosion
+	
+	// Props
+	alien_drill_enter
+	alien_drill_end
+	alien_drill_loop
+	alien_drill_nonoperate
+	alien_drill_operate_enter
+	alien_drill_operate_end
+	alien_fence_traverse_climb_over_fence
+	alien_vehicle_tatra_t815_destory_jump
+	alien_vehicle_iveco_lynx_iw6_jump
+	
+	// Aim
+	aim : additive
+	{
+		alien_drone_aim1
+		alien_drone_aim2
+		alien_drone_aim3
+		alien_drone_aim4
+		alien_drone_aim5
+		alien_drone_aim6
+		alien_drone_aim7
+		alien_drone_aim8
+		alien_drone_aim9
+	}	
+	
+	//DLC
+	alien_drone_traverse_rail_32_jump_down_idle_dlc
+	alien_drone_traverse_rail_36_jump_down_idle_dlc
+	alien_drone_traverse_rail_48_jump_down_idle_dlc
+	alien_drone_traverse_jump_down_straight_360_dlc
+	alien_drone_egg_hatch_01_dlc
+	alien_drone_container_01_dlc
+	alien_drone_traveral_vent_wall_low_dlc
+	alien_drone_traveral_vent_wall_low_sfx_dlc
+	alien_drone_traveral_vent_high_sfx_dlc
+	alien_drone_out_floor_grate_01_dlc
+	alien_drone_on_autopsy_table
+	alien_spitter_container_01_dlc
+	alien_spitter_container_02_dlc
+	alien_spitter_container_03_dlc
+	alien_spitter_container_short_01_dlc
+	alien_spitter_container_short_02_dlc
+	alien_spitter_container_short_03_dlc
+	alien_spitter_traveral_vent_wall_low_dlc
+	alien_spitter_traveral_vent_wall_low_sfx_dlc
+	alien_spitter_traveral_vent_high_sfx_dlc
+	alien_spitter_out_floor_grate_01_dlc
+	alien_queen_container_01_dlc
+	alien_queen_charge_roll_start_dlc
+	alien_queen_charge_roll_dlc
+	alien_queen_charge_roll_bump_dlc
+	alien_queen_charge_roll_to_stop_dlc
+	alien_armory_alein1_roomvignette
+	alien_armory_alein2_roomvignette
+	alien_phantom_attack_ground_swipe_third
+	alien_minion_container_01_short_dlc
+	alien_hive_spore_back_to_ground
+	alien_hive_spore_death
+	alien_hive_spore_ground
+	alien_hive_spore_ground_to_idle
+	alien_hive_spore_idle
+	alien_hive_spore_suckle
+	alien_minion_traversal_corner_in_dlc
+	alien_minion_traversal_corner_out_dlc
+	alien_minion_traversal_corner_in_r45_dlc
+	alien_minion_traversal_corner_in_l45_dlc
+	alien_drone_traverse_leap_64_dlc
+	
+	
+	//_seeder
+	alien_seeder_idle_dlc
+	alien_seeder_posture_01_dlc
+	alien_seeder_posture_02_dlc
+	alien_seeder_attack_spit_01_dlc
+	alien_seeder_attack_spit_02_dlc
+	alien_seeder_walk_dlc
+	alien_seeder_turn_45_l_dlc
+	alien_seeder_turn_45_r_dlc
+	alien_seeder_turn_l_dlc
+	alien_seeder_turn_r_dlc
+	alien_seeder_turn_135_l_dlc
+	alien_seeder_turn_135_r_dlc
+	alien_seeder_turn_180_l_dlc
+	alien_seeder_pain_forward_dlc
+	alien_seeder_pain_r_dlc
+	alien_seeder_pain_l_dlc
+	alien_seeder_pain_back_dlc
+	alien_seeder_walk_to_stop_dlc
+	alien_seeder_stop_to_walk_dlc
+	alien_seeder_container_short_01_dlc
+	
+	// Spore
+	alien_seeder_spore_attack_dlc
+	alien_seeder_spore_attack_up_dlc
+	alien_seeder_spore_death_dlc
+	alien_seeder_spore_growth_dlc
+	alien_seeder_spore_idle_a_dlc
+	alien_seeder_spore_idle_b_dlc
+	alien_seeder_spore_pain_dlc
+	alien_seeder_gas_idle_dlc
+	alien_seeder_gas_into_alert_dlc
+	alien_seeder_gas_attack_dlc
+	alien_seeder_gas_exit_dlc
+	
+	
+	// Gargoyle
+	alien_gargoyle_air_fly_01
+	alien_gargoyle_air_fly_02
+	alien_gargoyle_air_glid_enter
+	alien_gargoyle_air_glid_loop
+	alien_gargoyle_air_glid_exit
+	alien_gargoyle_air_start
+	alien_gargoyle_air_stop
+	alien_gargoyle_air_idle
+	alien_gargoyle_air_posture
+	alien_gargoyle_attack_air_spit_start
+	alien_gargoyle_attack_air_spit_start_short
+	alien_gargoyle_attack_air_spit_loop
+	alien_gargoyle_attack_air_spit_stop
+	alien_gargoyle_attack_air_strafe_loop
+	alien_gargoyle_attack_air_strafe_loop_r
+	alien_gargoyle_attack_air_strafe_loop_l
+	alien_gargoyle_attack_air_strafe_start
+	alien_gargoyle_attack_air_strafe_stop
+	alien_gargoyle_air_pain_f
+	alien_gargoyle_air_pain_l
+	alien_gargoyle_air_pain_r
+	alien_gargoyle_air_pain_b
+	alien_gargoyle_air_dodge_r
+	alien_gargoyle_air_dodge_r_02
+	alien_gargoyle_air_dodge_l
+	alien_gargoyle_air_dodge_l_02
+	alien_gargoyle_air_dodge_up
+	alien_gargoyle_landing
+	alien_gargoyle_takeoff
+	alien_gargoyle_air_turn_45_r
+	alien_gargoyle_air_turn_r
+	alien_gargoyle_air_turn_135_r
+	alien_gargoyle_air_turn_180
+	alien_gargoyle_air_turn_45_l
+	alien_gargoyle_air_turn_l
+	alien_gargoyle_air_turn_135_l
+	
+	alien_gargoyle_attack_ground_whip
+	alien_gargoyle_attack_ground_swing
+	alien_gargoyle_run
+	alien_gargoyle_idle
+	alien_gargoyle_posture_01
+	alien_gargoyle_posture_02
+	alien_gargoyle_death_f
+	alien_gargoyle_death_l
+	alien_gargoyle_death_r
+	alien_gargoyle_death_b
+	
+	alien_gargoyle_bomber_idle
+	alien_gargoyle_bomber_air_start
+	alien_gargoyle_bomber_air_stop
+	
+		
+// Aim
+    gargoyle_aim : additive
+    {
+        alien_gargoyle_aim1
+        alien_gargoyle_aim2
+        alien_gargoyle_aim3
+        alien_gargoyle_aim4
+        alien_gargoyle_aim5
+        alien_gargoyle_aim6
+        alien_gargoyle_aim7
+        alien_gargoyle_aim8
+        alien_gargoyle_aim9
+    }     
+
+    // temp mini-crab anims....
+
+IW7_cp_minicrab_egg_idle_01
+IW7_cp_minicrab_spawn_01
+
+IW7_cp_minicrab_stand_idle_01
+IW7_cp_minicrab_stand_idle_02
+IW7_cp_minicrab_stand_idle_03
+
+IW7_cp_minicrab_shamble_forward_01
+IW7_cp_minicrab_walk_forward_01
+IW7_cp_minicrab_run_forward_01
+IW7_cp_minicrab_sprint_forward_01
+
+IW7_cp_minicrab_turn_1
+IW7_cp_minicrab_turn_2l
+IW7_cp_minicrab_turn_2r
+IW7_cp_minicrab_turn_3
+IW7_cp_minicrab_turn_4
+IW7_cp_minicrab_turn_6
+IW7_cp_minicrab_turn_7
+IW7_cp_minicrab_turn_9
+IW7_cp_minicrab_stand_melee_l
+IW7_cp_minicrab_stand_melee_r
+IW7_cp_minicrab_stand_melee_both
+IW7_cp_minicrab_stand_melee_bite
+IW7_cp_minicrab_forward_melee_l
+IW7_cp_minicrab_forward_melee_r
+IW7_cp_minicrab_forward_melee_both
+IW7_cp_minicrab_forward_melee_bite
+IW7_cp_minicrab_leap_melee_01
+IW7_cp_minicrab_leap_melee_02
+IW7_cp_minicrab_death_01
+IW7_cp_minicrab_death_02
+IW7_cp_minicrab_death_03
+IW7_cp_minicrab_death_04
+IW7_cp_minicrab_death_05
+IW7_cp_minicrab_run_death_01
+IW7_cp_minicrab_run_death_02
+IW7_cp_minicrab_run_death_03
+IW7_cp_minicrab_run_death_04
+IW7_cp_minicrab_run_death_05
+
+IW7_cp_minicrab_stuck_left_melee_01
+IW7_cp_minicrab_stuck_right_melee_01
+IW7_cp_minicrab_stuck_both_melee_01
+IW7_cp_minicrab_stuck_left_idle_01
+IW7_cp_minicrab_stuck_right_idle_01
+IW7_cp_minicrab_stuck_both_idle_01
+IW7_cp_minicrab_stuck_left_release_01
+IW7_cp_minicrab_stuck_right_release_01
+IW7_cp_minicrab_stuck_both_release_01
+
+
+IW7_cp_brutecrab_run_turn_1l
+IW7_cp_brutecrab_run_turn_2l
+IW7_cp_brutecrab_run_turn_3l
+IW7_cp_brutecrab_run_turn_4l
+IW7_cp_brutecrab_run_turn_6l
+IW7_cp_brutecrab_run_turn_7l
+IW7_cp_brutecrab_run_turn_9l
+IW7_cp_brutecrab_run_turn_1r
+IW7_cp_brutecrab_run_turn_2r
+IW7_cp_brutecrab_run_turn_3r
+IW7_cp_brutecrab_run_turn_4r
+IW7_cp_brutecrab_run_turn_6r
+IW7_cp_brutecrab_run_turn_7r
+IW7_cp_brutecrab_run_turn_9r
+IW7_cp_brutecrab_run_arrival_l
+IW7_cp_brutecrab_run_arrival_r
+IW7_cp_brutecrab_run_exit_1
+IW7_cp_brutecrab_run_exit_2l
+IW7_cp_brutecrab_run_exit_2r
+IW7_cp_brutecrab_run_exit_3
+IW7_cp_brutecrab_run_exit_4
+IW7_cp_brutecrab_run_exit_6
+IW7_cp_brutecrab_run_exit_7
+IW7_cp_brutecrab_run_exit_8
+IW7_cp_brutecrab_run_exit_9
+IW7_cp_brutecrab_sprint_arrival_l
+IW7_cp_brutecrab_sprint_arrival_r
+
+IW7_cp_brutecrab_stand_pain_01
+IW7_cp_brutecrab_stand_pain_02
+IW7_cp_brutecrab_run_forward_pain_01
+IW7_cp_brutecrab_run_forward_pain_02
+
+
+//brutecrab traversals
+IW7_cp_brutecrab_run_traverse_over_40_down_56_01
+IW7_cp_brutecrab_run_traverse_over_40_down_128_01
+IW7_cp_brutecrab_run_traverse_across_100_01
+IW7_cp_brutecrab_run_traverse_up_56_over_40_01
+IW7_cp_brutecrab_run_traverse_up_128_over_40_01
+IW7_cp_brutecrab_run_traverse_over_40_01
+IW7_cp_brutecrab_run_traverse_up_56_01
+IW7_cp_brutecrab_run_traverse_up_128_01
+IW7_cp_brutecrab_run_traverse_down_56_01
+IW7_cp_brutecrab_run_traverse_down_128_01
+    
+}

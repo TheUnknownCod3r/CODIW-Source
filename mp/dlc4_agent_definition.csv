@@ -1,0 +1,10 @@
+1,# Zombie,generic_zombie,zombie,zombie,zom_civ_urban_male_torso_slice,zombie_dlc4_animclass,200,50,60,zombie_dlc4,zombie_dlc4,15,65
+2,# alien_goon,alien_goon,zombie,alien,,alien_goon_animclass,200,50,60,alien_goon,alien_goon,15,65
+3,# alien_rhino,alien_rhino,zombie,alien,,alien_rhino_animclass,200,50,0,alien_rhino,alien_rhino,15,65
+4,# alien_phantom,alien_phantom,zombie,alien,,alien_goon_animclass,20,50,0,alien_goon,alien_goon,15,65
+5,# dlc4_boss,dlc4_boss,zombie,alien,,dlc4_boss_animclass,20,50,60,dlc4_boss,dlc4_boss,15,65
+6,# Zombie ghost,zombie_ghost,zombie_ghost,zombie,zom_civ_urban_male_torso_slice,zombie_ghost_dlc2_animclass,5000,50,60,zombie_ghost,zombie_ghost,15,50
+7,# Skeleton,skeleton,zombie,zombie,dlc4_fullbody_zmb_skeleton,zombie_dlc4_animclass,200,50,60,zombie_dlc4,zombie_dlc4,15,65
+8,# Zombie clown,zombie_clown,zombie,zombie,park_clown_zombie,zombie_dlc4_animclass,200,50,60,zombie_dlc4,zombie_dlc4,15,65
+9,# KarateMaster,karatemaster,zombie,zombie,,karatemaster_animclass,1000,50,60,karatemaster,karatemaster_dlc4,15,65
+10,# Slasher,slasher,zombie,zombie,park_alien_gray,slasher_animclass,30000,50,0,slasher,slasher_dlc4,15,65

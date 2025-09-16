@@ -1,0 +1,8 @@
+1,# Zombie,generic_zombie,zombie,zombie,zom_civ_urban_male_torso_slice,zombie_dlc2_animclass,200,50,60,zombie_dlc2,zombie_dlc2,15,65
+2,# Zombie cop,cop_dlc2,zombie,zombie,,zombie_dlc2_animclass,200,50,60,zombie_dlc2,zombie_dlc2,15,65
+3,# Skater,skater,zombie,zombie,,skater_animclass,200,50,60,zombie_dlc2,zombie_dlc2,15,65
+4,# PamGrier,pamgrier,zombie,zombie,,pamgrier_animclass,200,50,60,pamgrier,pamgrier,15,65
+5,# RatKing,ratking,zombie,zombie,,ratking_animclass,10000,50,60,ratking,ratking,15,65
+6,# KarateMaster,karatemaster,zombie,zombie,,karatemaster_animclass,1000,50,60,karatemaster,karatemaster,15,65
+7,# Skeleton,skeleton,zombie,zombie,fullbody_zmb_skeleton,skeleton_dlc2_animclass,200,50,60,zombie_dlc2,zombie_dlc2,15,65
+7,# Zombie ghost,zombie_ghost,zombie_ghost,zombie,zom_civ_urban_male_torso_slice,zombie_ghost_dlc2_animclass,5000,50,60,zombie_ghost,zombie_ghost,15,50
